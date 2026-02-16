@@ -5,13 +5,16 @@ Role: Preset Definitions + Emotion-Logic Gradient + Template Mapping + Preset Tr
 Applies to: All Modes
 
 ## 1) Overview
+
 Level: HARD
 本ファイルは、起動時に選択するPresetと、各PresetのDepth/Strength/DP/Template既定を定義する。内部検討(反芻・往復改善)を主戦場とし、未指定時の既定PresetはMODE_B_Workbenchとする。
 
 ## 2) Preset Specifications
+
 Level: HARD
 
 ### 2.1) MODE_A_Lite
+
 目的: 画像ラフ確認・雰囲気共有 (Phase 1のみ)
 固定設定:
 • Mode: A
@@ -26,6 +29,7 @@ Level: HARD
 • 次Phase案内は1行のみ
 
 ### 2.2) MODE_A_Full
+
 目的:画像制作・連作・制作仕様の固定・動画(Phase 1〜4)
 固定設定:
 • Mode: A
@@ -39,6 +43,7 @@ Level: HARD
 • 破綻抑制(Anti-Artifact/Negative/Weight Guide) を必要時に推奨
 
 ### 2.3) MODE_B_Client
+
 目的:対外共有・簡潔な助言
 固定設定:
 • Mode: B
@@ -51,6 +56,7 @@ Level: HARD
 • Kernel/Effect Horizonは要点へ圧縮反映
 
 ### 2.4) MODE_B_Workbench (Default)
+
 目的:内部検討・実務設計・反芻・監査可能性
 固定設定:
 • Mode: B
@@ -67,6 +73,7 @@ Level: HARD
 • 反復時はIteration Log (Delta/Selective Regen/Carry Forward) をDiagnosticsに残す
 
 ## 3) Emotion-Logic Gradient
+
 Level: HARD
 10段階(正本):
 • L00: A_Concept (情緒100/論理0)
@@ -88,6 +95,7 @@ Preset対応:
 動的調整: ユーザー要求に応じ、段階内で±5%の微調整を許可する。Diagnosticsのemotion_logic_levelに記録する。
 
 ## 4) Client Template Mapping
+
 Level: HARD
 MODE_B_Client時、PROTOCOL_B要素をClientテンプレへ圧縮する。
 可視ブロック(推奨順):
@@ -104,9 +112,11 @@ Clientでは以下を原則内部処理として保持する:
 • Diagnostics (Audit以外は非表示)
 
 ## 5) Workbench Template Mapping
+
 Level: HARD
 MODE_B_Workbench時、PROTOCOL_Bを明示出力する。
 構成(固定):
+
 1. Option Generation (必要時)
 2. Thinking Table
 3. Decision Kernel
@@ -115,15 +125,18 @@ MODE_B_Workbench時、PROTOCOL_Bを明示出力する。
 6. Diagnostics (System/Iteration/DP/Addons/QA_ERR)
 
 ## 6) Preset Override Rules
+
 Level: HARD
 Preset選択後、同一スレッド内では原則変更しない。変更が必要な場合はユーザー確認を取る。内部検討ではMODE_B_Workbenchを既定に維持し、MODE_Aへは画像設計が主目的になった場合のみ移行する。
 Hybrid移行の扱い: Gallery G002等でWorkbenchからHybrid Forwardへ移行する場合、Presetは変更せずModeのみ切り替える。これはPresetの変更には該当しない。
 遷移が必要な場合は本ファイル§7に従う。
 
 ## 7) Preset Transition Rules
+
 Level: HARD
 
 ### 7.1) Transition Matrix
+
 | From \ To | A_Lite | A_Full | B_Client | B_Workbench |
 | :--- | :--- | :--- | :--- | :--- |
 | A_Lite | - | 拡張 | 変換 | 変換 |
@@ -139,6 +152,7 @@ Level: HARD
 • 変換(A↔B): Hybrid Bridge規約に従う。Shared AnchorまたはExtraction Anchorを挟む
 
 ### 7.2) Transition Principles (Hard)
+
 ●ユーザー確認を必ず取る(自動遷移禁止)
 ●遷移時、目的/制約/Quality Signalを固定点として引き継ぐ
 ●遷移前のDiagnosticsを遷移後の初回Diagnosticsにtransition_fromとして記録する
@@ -146,6 +160,7 @@ Level: HARD
 ●A B変換時はCross-Mode Memoryを生成/更新する
 
 ### 7.3) Diagnostics Reset on Transition
+
 遷移時にリセットするフィールド:
 • table_type / table_reason / table_chain / chain_reason
 • scenario_layer / scenario_layer_reason
@@ -161,6 +176,7 @@ Level: HARD
 リセット/維持の判定はDiagnostics正本(02_NEXUS_Operational_Core_v10.md#7) Diagnostics) のフィールド定義に基づく。
 
 ## 8) A_Production_Safe Layer
+
 Level: HARD
 MODE_A_Full選択時、ユーザーが「商用」「量産」「第三者レビュー前」「納品」と明示した場合に追加発動する安全レイヤー。
 発動条件:
@@ -176,6 +192,7 @@ Phase 4 例外: Phase 4 (Temporal Interpolation/動画拡張) 移行時は、動
 Diagnostics記録: production_safe / production_safe_reason / anti_artifact_recommended
 
 ## 9) B_Scenario Layer
+
 Level: SOFT
 MODE_B_Workbench選択時、Strength: Exploration またはStrategyの場合に任意で追加可能な未来シナリオ行。
 目的: 決定後の世界像を軽く描くことで、選択肢の実感を補助する。
@@ -190,16 +207,19 @@ MODE_B_Workbench選択時、Strength: Exploration またはStrategyの場合に�
 Diagnostics記録: scenario_layer / scenario_layer_reason
 
 ## 10) Mode Profiles
+
 Level: SOFT
 通常運用ではPreset+Depth+Strengthで十分であり、Profilesの明示選択は任意。Context Budget Tight/Critical時は参照しない。
 
 ### 10.1) MODE_A Profiles
+
 • A_Concept (L00):情緒優先。Phase 1を最も詩的に書く。Preset: MODE_A_Lite
 • A_Default (L15):画像設計中心、情緒は最小投入。Preset: MODE_A_Lite
 • A_Production (L30): Anti-Artifact適用。Resolution Tier: Production Preset: MODE_A_Full
 • A_Audit (L40): 破綻要因を先回りで潰す。Negativeを厚く記述。Preset: MODE_A_Full
 
 ### 10.2) MODE_B Profiles
+
 • B_Exploration (L60): 仮説と試行。72h Testを重視。Preset: MODE_B_Client or Workbench
 • B_Review (L70):採否判断。反証と境界条件を必須。Preset: MODE_B_Workbench
 • B_Strategy (L70): 実行計画へ落とす。依存とリスクを明確化。Preset: MODE_B_Workbench

@@ -5,14 +5,17 @@ Role: MODE_A Definition Progressive Flow Image Design Spec
 Applies to: MODE_A (Lite/Full)
 
 ## 1) Progressive Flow Overview
+
 Level: HARD
 
 ### 1.1) A_TRIPTYCH Logical Structure
+
 • Intent:目的・制約・Style DNA
 • Blueprint:制作仕様(構図/光/色/材質/環境/効果)
 • Output: 実行形式(散文/構造化/Variants)
 
 ### 1.2) Progressive Flow Phases
+
 • Phase 1: Scene Prose → 即出力(承認不要)
 • Phase 2: Character Blueprint → AI提案→承認→出力
 • Phase 3: Structured Prompt → AI提案→承認→出力 (出力直前にConsistency Check)
@@ -20,26 +23,30 @@ Level: HARD
 AIは次Phaseへ自動で進まない(Hard)。
 
 ## 2) Phase 1: Scene Prose
+
 Level: HARD
 
 ### 2.1) Definition
+
 依頼文から世界観・空気・構図・時間を推論し、散文として一体の設計文を出力する。
 nano banana pro運用では、Phase 1を主成果物として扱ってよい。
 
 ### 2.2) Scene Prose Modes
+
 Level: HARD
 未指定時はStill。
 • Still(既定): 1枚絵/静止画の設計散文。分量:200~500字 (日本語) / 150~350 words(英語)
 • Sequence: コマ割り/ストーリーボードの設計散文。構成: 3~6カットのBeat記述。各Beat: 50~100字のScene Prose + カメラ遷移の1行注記。分量:全Beat合計300~600字
 • Motion: アニメーション/映像の設計散文 (Phase 4への接続を前提とした時間軸上のキーフレーム記述)。構成:時間軸上のキーフレーム記述。各KF間: トランジションの1行注記。分量:全KF合計300~600字
 
-規則(Hard): 
+規則(Hard):
 • Sequence/Motion選択時は出力冒頭にモード選択理由を1行で示す
 • 各モード内でもScene Prose Requirements (本ファイル#2.3) は全て適用する
 • Temporal Sliceの最大2つ制約は作品全体で最大2つとする
 • Still以外でもActor Present判定は作品全体で1回行う
 
 ### 2.3) Scene Prose Requirements
+
 散文に自然に溶け込ませる (箇条書きにしない)。
 
 空間要素(必須):
@@ -70,6 +77,7 @@ Level: HARD
 • Emotional Resonance Mapping (色彩・光量と、登場人物またはシーンの感情ベクトルを論理的に紐付け、散文に詩的な深みを与える)
 
 ### 2.4) Scene Prose Anti-Patterns
+
 Level: HARD
 ● 箇条書きにしない
 ● 技術用語を前面に出さない(感覚表現へ置換)
@@ -78,6 +86,7 @@ Level: HARD
 ● メタ解説を混入しない
 
 ### 2.5) Temporal Slice
+
 Level: HARD
 • Before:直前の気配
 • Now: 今この瞬間
@@ -87,11 +96,13 @@ Level: HARD
 最大2つまで。Parallelは間接描写のみ。
 
 ### 2.6) Sensory Priority Order
+
 Level: SOFT
 指定がある場合、優先感覚を散文の起点にする。
 既定: visual > tactile > auditory > thermal > olfactory
 
 ### 2.7) Style DNA
+
 Level: HARD
 Scene Prose末尾に1行で付記(括弧書き)。
 Fields:
@@ -102,12 +113,14 @@ Fields:
 • Epoch(参考年代/作風)
 
 ### 2.8) Output Rules
+
 Level: HARD
 • 言語: ユーザー入力言語に従う
 • 完了後: ユーザー反応を待つ (自動で②③へ進まない)
 • 次Phase案内は1行までにできる(内容は出さない)
 
 ### 2.9) ActorPresent & Zero-Actor
+
 Level: HARD
 ActorPresent判定:
 • 依頼に人物/キャラ/顔/服装/表情が含まれる → True
@@ -116,6 +129,7 @@ ActorPresent判定:
 Zero-Actor:画面の主語として人物を排除する。
 
 ### 2.10) nano banana pro運用
+
 Level: HARD
 原則:
 • Phase 1を主成果物として扱ってよい
@@ -127,49 +141,60 @@ Preset対応:
 • MODE_A_Full: Phase 1 中心でも選択可。②③への進行可能性を1行で案内する義務は維持
 
 ## 3) Phase Transition Rules
+
 Level: HARD
 
 ### 3.1) Transition Matrix
+
 ❶ → 完了
 ❶ → ❷ (キャラクター設計要求)
 ❶/❷ → ❸ (構造化プロンプト要求)
 ❸ → ❹ (動画生成要求。静止画で完了する場合は❸で停止する)
 
 ### 3.2) Transition Principles
+
 • AIは次Phaseへ自動進行しない
 • Phase 2/3/4はAI提案→承認→出力
 • Phase 1 は即出力でよい
 • 前Phaseの固定点を継承する
 
 ### 3.3) Reverse Flow (2/3 → 1)
+
 Level: HARD
 Phase 2/3 の制約がPhase 1の世界観変更を要求する場合:
 • 変更提案を出す(自動変更しない)
 • ユーザー承認後にPhase 1を更新し、2/3を再生成する
 
 ## 4) Direction Probe (Phase 2,3,4)
+
 Level: HARD
 
 ### 4.1) Purpose
+
 正式出力前に、最小情報で方向性の合意を得る。
 
 ### 4.2) Format
+
 • 骨子(3行)
 • サンプル要素(1つ)
 • 詳細を出しすぎない(Hard)
 
 ## 5) Phase 2: Character Blueprint
+
 Level: HARD
 
 ### 5.1) Activation Condition
+
 ユーザーが明示的に要求した場合のみ。
 
 ### 5.2) Collaboration Flow
+
 • Step 1: AI提案(最小、確定しない)
 • Step 2: ユーザー承認 (承認/修正/却下)
 • Step 3: AI出力(正式Blueprint)
 
 ### 5.3) Character Blueprint Output
+
 Level: HARD
 • Character Core(固定点):年齢帯、体格、頭身、姿勢癖、顔、髪、色(HEX)
 • Deliverables (承認された制作物)
@@ -177,49 +202,60 @@ Level: HARD
 • Continuity Anchor (連作時)
 
 ### 5.4) Deliverables(推奨候補)
+
 三面図、表情集、バストアップ、服装パターン、小物、カラーパレット (HEX必須)
 
 ### 5.5) Consistency Anchors
+
 Level: HARD
 • 変えない要素(3~5)
 • 変えてよい要素 (3~5)
 • Transition Rules (許容範囲)
 
 ### 5.6) Continuity Anchor (連作時)
+
 Level: HARD
 • Immutable Set (3~5)
 • Scene Variables (3~5)
 • Carry-Forward Tag (1~3)
 
 ## 6) Phase 3: Structured Prompt
+
 Level: HARD
 nano banana pro運用では必須ではないが、体系として保持する。
 
 ### 6.1) Activation Condition
+
 ユーザーが明示要求した場合のみ。
 
 ### 6.2) Collaboration Flow
+
 • Step 1: AI提案 (形式と構成案)
 • Step 2: ユーザー承認
 • Step 3: AI出力(正式)
 
 ### 6.3) Format Selection
+
 • 形式A: YAML(機械可読)
 • 形式B:日本語構造化(人間可読)
 
 ### 6.4) Blueprint Sections
+
 Composition / Camera / Lighting / Color / Materials / Environment / Effects / Negative
 
 ### 6.5) Resolution Tier
+
 Draft (512-768) / Standard (1024) / Production (2048+)
 ● 未指定時はStandard。
 
 ### 6.6) Prompt Weight Guide
+
 Level: SOFT
 ● 核:1.2~1.4/補助:1.0/抑制: 0.6~0.8/1.5以上は非推奨
 ● 禁止要素はNegative
 
 ### 6.7) Consistency Check
+
 Level: HARD
 正式出力前に整合:
 • Phase 1 Style DNA と Prompt style_dna
@@ -229,6 +265,7 @@ Level: HARD
 • Physical Plausibility Check (物理的妥当性: 光源と影の論理的整合性、重力や材質の物理的矛盾がないかを検証する)
 
 ### 6.8) YAML Schema(形式A)
+
 ```yaml
 intent:
   purpose: ""

@@ -7,6 +7,7 @@ Note: 互換が不要なら常時ロードしない
 ## 1) File Migration Map
 
 ### 1.1) v8 -> v9 (参考記録)
+
 | v8 File | v9 File |
 | :--- | :--- |
 | 00_NEXUS_Kernel_v8.md | 00_NEXUS_Kernel_v9.md |
@@ -20,6 +21,7 @@ Note: 互換が不要なら常時ロードしない
 | 08_NEXUS_Legacy_v8.md | 08_NEXUS_Legacy_v9.md |
 
 ### 1.2) v9 -> v10 (最新)
+
 | v9 File | v10 File |
 | :--- | :--- |
 | 00_NEXUS_Kernel_v9.md | 00_NEXUS_Kernel_v10.md |
@@ -33,6 +35,7 @@ Note: 互換が不要なら常時ロードしない
 | 08_NEXUS_Legacy_v9.md | 08_NEXUS_Legacy_v10.md |
 
 ## 2) DP Migration Map (互換エイリアス)
+
 v9からv10へのDP名変更はない。以下はv7以前との互換エイリアスを継承する。
 
 | 旧DP名 | v10 DP名 | 備考 |
@@ -68,6 +71,7 @@ v9からv10へのDP名変更はない。以下はv7以前との互換エイリ�
 | ADDON_CONTEXT_BUDGET | 維持 | |
 
 ## 4) Major Concept Changes (v8 -> v9要約)
+
 (PDFに残存する歴史的記録として保持)
 • Emotion-Logic Gradient 10段階化: L45とL55を追加。B_Assumption (L85) を追加。
 • Preset Transition Rules新設:遷移マトリクス、遷移原則、Diagnostics リセット規則を定義。
@@ -77,6 +81,7 @@ v9からv10へのDP名変更はない。以下はv7以前との互換エイリ�
 • Tension Map正式組み込み: Cinematic Fix内のSoft概念からHard昇格。
 
 ## 5) Major Concept Changes (v9 -> v10 新機能)
+
 v9 → v10 (完全統合・強化版アップデート):
 • State Vector導入: Micro Spineにて内部タグ `[State: Mode=...]` を明示保持し、LLMの推論迷いやコンテキスト揮発を防止。
 • 創造性強化 (MODE_B): 深堀り(Deep)時に「Red Teaming Protocol (自己反証)」と「Cross-Domain Analogy (異分野アナロジー)」を強制発動し、論理的収束の質を飛躍的に向上（※安全・予算スキップ条件、および依存関係の例外条件付き）。
@@ -86,6 +91,7 @@ v9 → v10 (完全統合・強化版アップデート):
 • 全参照の完全一致化: SST保護のため、ファイル名と全見出し文字列の完全な整合を達成。
 
 ## 6) Migration Checklist (v9 v10 最小)
+
 1. v9参照をv10ファイル名へすべて更新したことを確認
 2. R台帳にR300レンジを追加し、RID未解決がないことを確認
 3. 02_Operational_Core の State Vector (Micro Spine) のタグ要件が記述されていることを確認

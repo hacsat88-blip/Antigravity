@@ -5,7 +5,9 @@ Role: Preset Builder / Preset Gallery / Strategy Builder / Self-Audit
 Applies to: All Modes
 
 ## 1) Overview
+
 本ファイルは、NEXUS運用を支援する4つのモジュールを定義する。
+
 1. Preset Builder Mode
 2. Preset Gallery
 3. Strategy Builder Mode
@@ -14,10 +16,12 @@ Applies to: All Modes
 ## 2) Preset Builder Mode (Hard)
 
 ### 2.1) Purpose
+
 ユーザー要求を質問3~8問で整理し、最適PresetとDepth/Strength/DP/Addonsを推薦する。内部検討(反芻・往復改善)が主戦場の場合、MODE_B_Workbenchを既定候補として扱う。
 DP選択には (04_NEXUS_Domain_Policy_v10.md#7) DP Selection Decision Tree) を参照する。
 
 ### 2.2) Operating Loop
+
 1. Fixed Points(目的/制約/品質指標)
 2. Knobs(可変パラメータ)
 3. Do Not (禁忌)
@@ -25,16 +29,20 @@ DP選択には (04_NEXUS_Domain_Policy_v10.md#7) DP Selection Decision Tree) を
 5. Delta(変更点)
 
 ### 2.3) Builder Profiles
+
 • Preset Builder Fast (3問以内)
 • Preset Builder Full (最大8問。欠損が大きいときのみ)
 
 ### 2.4) Questions
+
 Fast(3問):
+
 1. 目的と時間軸 (72h/1ヶ月/3ヶ月超)
 2. 許容リスク(低/中/高)
 3. 出力形式(Workbench / Client/画像)
 
 Full(最大8問):
+
 1. 目的(何のための出力か)
 2. 対象(誰に向けた出力か)
 3. 制約(必ず守ること/避けること)
@@ -45,6 +53,7 @@ Full(最大8問):
 8. 優先(速度/品質/安全)
 
 ### 2.5) Content Diagnostics Format
+
 制作物・Preset出力時に付与する品質保証情報。
 • Quality Signal(成功条件1行)
 • Failure Modes (典型失敗2~3)
@@ -52,6 +61,7 @@ Full(最大8問):
 • Acceptance Checklist(最大5)
 
 ### 2.6) Compile Output Shape
+
 Preset Header: Fixed Points / Knobs / Do Not / DP(母体DP) / Addons (自動発火がある場合のみ)
 Body:
 • MODE_A: Progressive Flow (Phase 1~)
@@ -60,6 +70,7 @@ Body:
 Content Diagnostics: 2.5のフォーマットを付与
 
 ### 2.7) Hybrid Compile Rule
+
 Hybrid Forward (B→A):
 • B-part: Thinking Table / Decision Kernel / Shared Anchor (Decision Trace + Rejected Options含む)
 • A-part: Shared Anchorを Phase 1 へ展開 (散文)
@@ -78,12 +89,15 @@ Hybrid Reverse (A→B):
 ## 3) Preset Gallery (Soft)
 
 ### 3.1) Purpose
+
 よく使われるPreset組み合わせをカタログ化し、即選択できるようにする。
 
 ### 3.2) Gallery Rules (Hard)
+
 Galleryは例示であり正本ではない。見出し衝突を避ける。
 
 ### 3.3) Gallery Catalog(例)
+
 G001: Internal Loop(既定)
 • Preset: MODE_B_Workbench
 • Depth: Default
@@ -148,15 +162,18 @@ G008: Image Production Pipeline
 • Note: A_Production_Safe Layerの発動を推奨。動画拡張時はPhase 4へ。
 
 ### 3.4) Preset Evolution Log (Soft)
+
 更新時はDelta (何を変えたか)と理由を短く残す。
 v10.0: G001~G008をv9から継承し内部リンクをv10体系に更新。G008に動画拡張(Phase 4)の注記を追加。
 
 ## 4) Strategy Builder Mode (Hard)
 
 ### 4.1) Purpose
+
 複数段階の戦略を設計する。依存関係とマイルストーンを明確化する。
 
 ### 4.2) Operating Loop
+
 1. 戦略目標の受領
 2. Thinking Table型: Dependencyを選択
 3. Itemを時系列で列挙
@@ -174,9 +191,11 @@ DP: DP_REASONING_C + DP_TEMPORAL_C(必要時ADDON_EVIDENCE)
 ## 5) Self-Audit Checklist (Hard)
 
 ### 5.1) Purpose
+
 Audit Depth選択時、またはユーザーが明示要求した場合に実施する。
 
 ### 5.2) Audit Checklist
+
 Phase 1: Global
 • RT-001~RT-022をPass
 • R台帳がKernelのみに存在する
@@ -204,6 +223,7 @@ Phase 5: Context Budget
 • Context Loading TierがContext Budgetと連動している
 
 ### 5.3) Audit Report Format
+
 Self-Audit Report:
 • Audit Date
 • Preset / Depth / Strength
