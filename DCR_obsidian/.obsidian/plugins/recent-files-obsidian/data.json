@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "NEXUS v10 Ignition Prompt",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md"
+    },
+    {
+      "basename": "テスト",
+      "path": "02_notebookLM/テスト.md"
+    },
+    {
+      "basename": "DCR実務モード",
+      "path": "01_AI_Prompt/カスタム指示文関連/DCR実務モード.md"
+    },
+    {
+      "basename": "DCR実務モード（強化フル）",
+      "path": "01_AI_Prompt/カスタム指示文関連/DCR実務モード（強化フル）.md"
+    },
+    {
+      "basename": "08_NEXUS_Legacy_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/08_NEXUS_Legacy_v10.md"
+    },
+    {
+      "basename": "07_NEXUS_Reference_Guide_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/07_NEXUS_Reference_Guide_v10.md"
+    },
+    {
+      "basename": "06_NEXUS_Modules_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/06_NEXUS_Modules_v10.md"
+    },
+    {
+      "basename": "05_NEXUS_QA_and_Validation_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md"
+    },
+    {
+      "basename": "04_NEXUS_Domain_Policy_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/04_NEXUS_Domain_Policy_v10.md"
+    },
+    {
+      "basename": "03_NEXUS_MODE_A_Contract_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md"
+    },
+    {
+      "basename": "02_NEXUS_Operational_Core_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/02_NEXUS_Operational_Core_v10.md"
+    },
+    {
+      "basename": "01_NEXUS_Preset_Catalog_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md"
+    },
+    {
+      "basename": "00_NEXUS_Kernel_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md"
+    },
+    {
+      "basename": "改善依頼分",
+      "path": "改善依頼分.md"
+    },
+    {
+      "basename": "再設計プロンプト【監査】",
+      "path": "再設計プロンプト【監査】.md"
+    },
+    {
+      "basename": "05_NEXUS_QA_and_Validation_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9/05_NEXUS_QA_and_Validation_v9.md"
+    },
+    {
+      "basename": "01_NEXUS_Preset_Catalog_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9/01_NEXUS_Preset_Catalog_v9.md"
+    },
+    {
+      "basename": "再設計プロンプト【改修依頼】",
+      "path": "再設計プロンプト【改修依頼】.md"
+    },
+    {
+      "basename": "NEXUS v9 Ignition Prompt",
+      "path": "01_AI_Prompt/🟢NEXUS_v9/NEXUS v9 Ignition Prompt.md"
+    },
+    {
+      "basename": "統合運用プロンプト（運用版）",
+      "path": "01_AI_Prompt/カスタム指示文関連/統合運用プロンプト（運用版）.md"
+    },
+    {
+      "basename": "グローバルCI（常設ルール）",
+      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/グローバルCI（常設ルール）.md"
+    },
+    {
+      "basename": "システム指示③：矛盾耐性仕様（Robust Spec）",
+      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示③：矛盾耐性仕様（Robust Spec）.md"
+    },
+    {
+      "basename": "システム指示②：収束統合仕様（Integrate Spec）",
+      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示②：収束統合仕様（Integrate Spec）.md"
+    },
+    {
+      "basename": "システム指示①：監査仕様（Audit Spec）",
+      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示①：監査仕様（Audit Spec）.md"
+    },
+    {
+      "basename": "統合システム体型プロンプト（仕様書）",
+      "path": "01_AI_Prompt/カスタム指示文関連/統合システム体型プロンプト（仕様書）.md"
+    },
+    {
+      "basename": "マイナンバー_署名用暗証番号",
+      "path": "88_パスワード関連/マイナンバー_署名用暗証番号.md"
+    },
+    {
+      "basename": "マイナンバー_カード暗証番号",
+      "path": "88_パスワード関連/マイナンバー_カード暗証番号.md"
+    },
+    {
+      "basename": "三菱UFJ",
+      "path": "88_パスワード関連/三菱UFJ.md"
+    },
+    {
+      "basename": "デザイン設計",
+      "path": "02_notebookLM/デザイン設計.md"
+    },
+    {
+      "basename": "【常識崩壊ブレスト】スライド依頼",
+      "path": "02_notebookLM/【常識崩壊ブレスト】スライド依頼.md"
+    },
+    {
+      "basename": "【スライド用】常識崩壊ブレスト・パートナー",
+      "path": "02_notebookLM/【スライド用】常識崩壊ブレスト・パートナー.md"
+    },
+    {
+      "basename": "【スライド用】Prompt Editional Lab",
+      "path": "02_notebookLM/【スライド用】Prompt Editional Lab.md"
+    },
+    {
+      "basename": "【PEL】スライド依頼",
+      "path": "02_notebookLM/【PEL】スライド依頼.md"
+    },
+    {
+      "basename": "NEXUS v9 Ignition Prompt",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/NEXUS v9 Ignition Prompt.md"
+    },
+    {
+      "basename": "08_NEXUS_Legacy_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/08_NEXUS_Legacy_v9.md"
+    },
+    {
+      "basename": "07_NEXUS_Reference_Guide_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/07_NEXUS_Reference_Guide_v9.md"
+    },
+    {
+      "basename": "06_NEXUS_Modules_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/06_NEXUS_Modules_v9.md"
+    },
+    {
+      "basename": "05_NEXUS_QA_and_Validation_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/05_NEXUS_QA_and_Validation_v9.md"
+    },
+    {
+      "basename": "04_NEXUS_Domain_Policy_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/04_NEXUS_Domain_Policy_v9.md"
+    },
+    {
+      "basename": "03_NEXUS_MODE_A_Contract_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/03_NEXUS_MODE_A_Contract_v9.md"
+    },
+    {
+      "basename": "02_NEXUS_Operational_Core_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/02_NEXUS_Operational_Core_v9.md"
+    },
+    {
+      "basename": "01_NEXUS_Preset_Catalog_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/01_NEXUS_Preset_Catalog_v9.md"
+    },
+    {
+      "basename": "00_NEXUS_Kernel_v9",
+      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/00_NEXUS_Kernel_v9.md"
+    },
+    {
+      "basename": "NEXUS v8 Ignition Prompt",
+      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/NEXUS v8 Ignition Prompt.md"
+    },
+    {
+      "basename": "IGNITION PROMPT",
+      "path": "01_AI_Prompt/🟢NEXUS_v7_unified/IGNITION PROMPT.md"
+    },
+    {
+      "basename": "IGNITION PROMPT",
+      "path": "01_AI_Prompt/🟢NEXUS_v7_preset/IGNITION PROMPT.md"
+    },
+    {
+      "basename": "00_NEXUS_Kernel_v8",
+      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/00_NEXUS_Kernel_v8.md"
+    },
+    {
+      "basename": "08_NEXUS_Legacy_v8",
+      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/08_NEXUS_Legacy_v8.md"
+    },
+    {
+      "basename": "07_NEXUS_Reference_Guide_v8",
+      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/07_NEXUS_Reference_Guide_v8.md"
+    },
+    {
+      "basename": "01_NEXUS_Preset_Catalog_v8",
+      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/01_NEXUS_Preset_Catalog_v8.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

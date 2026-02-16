@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "47558f5c2527dfb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4786f82998323969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "314bb48a7e98821b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53775e1ebf023012",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a6019678495948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "051884a750d60a77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "c39b37c8dd7ec561",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "924639bfaa9ccd43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "e3823552cdb0fa23",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5
+  },
+  "right": {
+    "id": "0b6335dba46b38b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f25b55a45de3e6d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75782de8ed652d19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "0a8f73f45693f248",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "92d07354e964b178",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "7d673ea5e2525f4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "f4a5d0dada86df0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "無題のファイル.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "無題のファイルのアウトライン"
+            }
+          },
+          {
+            "id": "c4338b4352fe9140",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "314bb48a7e98821b",
+  "lastOpenFiles": [
+    "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md",
+    "02_notebookLM/テスト.md",
+    "01_AI_Prompt/カスタム指示文関連/DCR実務モード.md",
+    "01_AI_Prompt/カスタム指示文関連/DCR実務モード（強化フル）.md",
+    "01_AI_Prompt/🟢NEXUS_v10/08_NEXUS_Legacy_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/07_NEXUS_Reference_Guide_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/06_NEXUS_Modules_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/04_NEXUS_Domain_Policy_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/02_NEXUS_Operational_Core_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md",
+    "改善依頼分.md",
+    "再設計プロンプト【監査】.md",
+    "01_AI_Prompt/🟢NEXUS_v9/05_NEXUS_QA_and_Validation_v9.md",
+    "01_AI_Prompt/🟢NEXUS_v9/01_NEXUS_Preset_Catalog_v9.md",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/08_NEXUS_Legacy_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/NEXUS v9 Ignition Prompt.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/07_NEXUS_Reference_Guide_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/06_NEXUS_Modules_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/05_NEXUS_QA_and_Validation_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/04_NEXUS_Domain_Policy_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/02_NEXUS_Operational_Core_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/03_NEXUS_MODE_A_Contract_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/01_NEXUS_Preset_Catalog_v9.pdf",
+    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/00_NEXUS_Kernel_v9.pdf",
+    "再設計プロンプト【改修依頼】.md",
+    "01_AI_Prompt/🟢NEXUS_v9/NEXUS v9 Ignition Prompt.md",
+    "01_AI_Prompt/カスタム指示文関連/統合運用プロンプト（運用版）.md",
+    "01_AI_Prompt/カスタム指示文関連/Gemini用/グローバルCI（常設ルール）.md",
+    "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示③：矛盾耐性仕様（Robust Spec）.md",
+    "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示②：収束統合仕様（Integrate Spec）.md",
+    "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示①：監査仕様（Audit Spec）.md",
+    "01_AI_Prompt/カスタム指示文関連/統合システム体型プロンプト（仕様書）.md",
+    "01_AI_Prompt/カスタム指示文関連/CI統合プロンプト：ハイブリッド＋推奨一手.md",
+    "08_パスワード関連/Microsoft 2段回認証.png",
+    "無題のファイル.canvas",
+    "08_パスワード関連/【ユーザー】楽天銀行　最新.png",
+    "08_パスワード関連/【ユーザー】楽天銀行　最新 1.png",
+    "08_パスワード関連/【楽天証券】取引暗証番号設定.png",
+    "08_パスワード関連/【合言葉】楽天銀行 1.png",
+    "08_パスワード関連/【合言葉】楽天銀行.png",
+    "差分チェッカー/apps/web/public/vercel.svg",
+    "差分チェッカー/apps/web/public/next.svg",
+    "差分チェッカー/apps/web/public/file.svg",
+    "差分チェッカー/apps/web/public/window.svg"
+  ]
+}
