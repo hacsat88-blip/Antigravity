@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4786f82998323969",
+        "id": "a0939a7fc4391a8b",
         "type": "tabs",
         "children": [
           {
-            "id": "314bb48a7e98821b",
+            "id": "b46c5d30a09ad769",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DeepResearch 指示書ジェネレーター"
+              "title": "新規タブ"
             }
           }
         ]
@@ -204,11 +200,17 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "314bb48a7e98821b",
+  "active": "b46c5d30a09ad769",
   "lastOpenFiles": [
+    "01_AI_Prompt/🟢Prompt Generator/Addons 設計シート v1.0.md",
+    "01_AI_Prompt/🟢Prompt Generator/addons_prompt_engineering.md",
+    "01_AI_Prompt/🟢Prompt Generator/addons_reasoning_models.md",
+    "01_AI_Prompt/🟢Prompt Generator/addons_nudge.md",
+    "01_AI_Prompt/🟢Prompt Generator/addons_framework.md",
+    "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター.md",
+    "01_AI_Prompt/🟢Prompt Generator",
     "再設計プロンプト【改修依頼】.md",
     "再設計プロンプト【監査】.md",
-    "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター.md",
     "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター v2.0.md",
     "01_AI_Prompt/スライド骨子ジェネレーター/OS.md",
     "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md",
@@ -227,9 +229,6 @@
     "01_AI_Prompt/🟢NEXUS_v10/06_NEXUS_Modules_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/04_NEXUS_Domain_Policy_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md",
-    "改善依頼分.md",
-    "01_AI_Prompt/🟢NEXUS_v9/05_NEXUS_QA_and_Validation_v9.md",
-    "01_AI_Prompt/🟢NEXUS_v9/01_NEXUS_Preset_Catalog_v9.md",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/08_NEXUS_Legacy_v9.pdf",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/NEXUS v9 Ignition Prompt.pdf",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/07_NEXUS_Reference_Guide_v9.pdf",
@@ -239,9 +238,6 @@
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/02_NEXUS_Operational_Core_v9.pdf",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/03_NEXUS_MODE_A_Contract_v9.pdf",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/01_NEXUS_Preset_Catalog_v9.pdf",
-    "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/00_NEXUS_Kernel_v9.pdf",
-    "01_AI_Prompt/🟢NEXUS_v9/NEXUS v9 Ignition Prompt.md",
-    "01_AI_Prompt/カスタム指示文関連/統合運用プロンプト（運用版）.md",
     "08_パスワード関連/Microsoft 2段回認証.png",
     "無題のファイル.canvas",
     "08_パスワード関連/【ユーザー】楽天銀行　最新.png",
