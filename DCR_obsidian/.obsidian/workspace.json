@@ -11,10 +11,14 @@
             "id": "314bb48a7e98821b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_AI_Prompt/常識崩壊パートナー/常識崩壊ブレスト・パートナー.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "常識崩壊ブレスト・パートナー"
             }
           }
         ]
@@ -202,19 +206,21 @@
   },
   "active": "314bb48a7e98821b",
   "lastOpenFiles": [
+    "01_AI_Prompt/プロンプト改善強化/Prompt Editorial Lab.md",
+    "02_notebookLM/スライド骨子ジェネレーター/OS.md",
     "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md",
+    "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md",
+    "01_AI_Prompt/🟢NEXUS_v10/02_NEXUS_Operational_Core_v10.md",
     "02_notebookLM/テスト.md",
     "01_AI_Prompt/カスタム指示文関連/DCR実務モード.md",
     "01_AI_Prompt/カスタム指示文関連/DCR実務モード（強化フル）.md",
     "01_AI_Prompt/🟢NEXUS_v10/08_NEXUS_Legacy_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/07_NEXUS_Reference_Guide_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/06_NEXUS_Modules_v10.md",
-    "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/04_NEXUS_Domain_Policy_v10.md",
-    "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md",
-    "01_AI_Prompt/🟢NEXUS_v10/02_NEXUS_Operational_Core_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md",
-    "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md",
     "改善依頼分.md",
     "再設計プロンプト【監査】.md",
     "01_AI_Prompt/🟢NEXUS_v9/05_NEXUS_QA_and_Validation_v9.md",
@@ -236,8 +242,6 @@
     "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示③：矛盾耐性仕様（Robust Spec）.md",
     "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示②：収束統合仕様（Integrate Spec）.md",
     "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示①：監査仕様（Audit Spec）.md",
-    "01_AI_Prompt/カスタム指示文関連/統合システム体型プロンプト（仕様書）.md",
-    "01_AI_Prompt/カスタム指示文関連/CI統合プロンプト：ハイブリッド＋推奨一手.md",
     "08_パスワード関連/Microsoft 2段回認証.png",
     "無題のファイル.canvas",
     "08_パスワード関連/【ユーザー】楽天銀行　最新.png",

@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "常識崩壊ブレスト・パートナー",
+      "path": "01_AI_Prompt/常識崩壊パートナー/常識崩壊ブレスト・パートナー.md"
+    },
+    {
+      "basename": "Prompt Editorial Lab",
+      "path": "01_AI_Prompt/プロンプト改善強化/Prompt Editorial Lab.md"
+    },
+    {
+      "basename": "OS",
+      "path": "02_notebookLM/スライド骨子ジェネレーター/OS.md"
+    },
+    {
       "basename": "NEXUS v10 Ignition Prompt",
       "path": "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md"
+    },
+    {
+      "basename": "00_NEXUS_Kernel_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md"
+    },
+    {
+      "basename": "05_NEXUS_QA_and_Validation_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md"
+    },
+    {
+      "basename": "03_NEXUS_MODE_A_Contract_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md"
+    },
+    {
+      "basename": "02_NEXUS_Operational_Core_v10",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/02_NEXUS_Operational_Core_v10.md"
     },
     {
       "basename": "テスト",
@@ -29,28 +57,12 @@
       "path": "01_AI_Prompt/🟢NEXUS_v10/06_NEXUS_Modules_v10.md"
     },
     {
-      "basename": "05_NEXUS_QA_and_Validation_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md"
-    },
-    {
       "basename": "04_NEXUS_Domain_Policy_v10",
       "path": "01_AI_Prompt/🟢NEXUS_v10/04_NEXUS_Domain_Policy_v10.md"
     },
     {
-      "basename": "03_NEXUS_MODE_A_Contract_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md"
-    },
-    {
-      "basename": "02_NEXUS_Operational_Core_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/02_NEXUS_Operational_Core_v10.md"
-    },
-    {
       "basename": "01_NEXUS_Preset_Catalog_v10",
       "path": "01_AI_Prompt/🟢NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md"
-    },
-    {
-      "basename": "00_NEXUS_Kernel_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md"
     },
     {
       "basename": "改善依頼分",
@@ -187,18 +199,6 @@
     {
       "basename": "00_NEXUS_Kernel_v8",
       "path": "01_AI_Prompt/🟢NEXUS_v8_preset/00_NEXUS_Kernel_v8.md"
-    },
-    {
-      "basename": "08_NEXUS_Legacy_v8",
-      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/08_NEXUS_Legacy_v8.md"
-    },
-    {
-      "basename": "07_NEXUS_Reference_Guide_v8",
-      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/07_NEXUS_Reference_Guide_v8.md"
-    },
-    {
-      "basename": "01_NEXUS_Preset_Catalog_v8",
-      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/01_NEXUS_Preset_Catalog_v8.md"
     }
   ],
   "omittedPaths": [],
