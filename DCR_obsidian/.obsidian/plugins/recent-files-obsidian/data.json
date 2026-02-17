@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "DeepResearch 指示書ジェネレーター",
+      "path": "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター.md"
+    },
+    {
+      "basename": "再設計プロンプト【改修依頼】",
+      "path": "再設計プロンプト【改修依頼】.md"
+    },
+    {
+      "basename": "再設計プロンプト【監査】",
+      "path": "再設計プロンプト【監査】.md"
+    },
+    {
+      "basename": "OS",
+      "path": "01_AI_Prompt/スライド骨子ジェネレーター/OS.md"
+    },
+    {
+      "basename": "NEXUS v10 Ignition Prompt",
+      "path": "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md"
+    },
+    {
       "basename": "常識崩壊ブレスト・パートナー",
       "path": "01_AI_Prompt/常識崩壊パートナー/常識崩壊ブレスト・パートナー.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "OS",
       "path": "02_notebookLM/スライド骨子ジェネレーター/OS.md"
-    },
-    {
-      "basename": "NEXUS v10 Ignition Prompt",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md"
     },
     {
       "basename": "00_NEXUS_Kernel_v10",
@@ -69,20 +85,12 @@
       "path": "改善依頼分.md"
     },
     {
-      "basename": "再設計プロンプト【監査】",
-      "path": "再設計プロンプト【監査】.md"
-    },
-    {
       "basename": "05_NEXUS_QA_and_Validation_v9",
       "path": "01_AI_Prompt/🟢NEXUS_v9/05_NEXUS_QA_and_Validation_v9.md"
     },
     {
       "basename": "01_NEXUS_Preset_Catalog_v9",
       "path": "01_AI_Prompt/🟢NEXUS_v9/01_NEXUS_Preset_Catalog_v9.md"
-    },
-    {
-      "basename": "再設計プロンプト【改修依頼】",
-      "path": "再設計プロンプト【改修依頼】.md"
     },
     {
       "basename": "NEXUS v9 Ignition Prompt",
@@ -191,14 +199,6 @@
     {
       "basename": "IGNITION PROMPT",
       "path": "01_AI_Prompt/🟢NEXUS_v7_unified/IGNITION PROMPT.md"
-    },
-    {
-      "basename": "IGNITION PROMPT",
-      "path": "01_AI_Prompt/🟢NEXUS_v7_preset/IGNITION PROMPT.md"
-    },
-    {
-      "basename": "00_NEXUS_Kernel_v8",
-      "path": "01_AI_Prompt/🟢NEXUS_v8_preset/00_NEXUS_Kernel_v8.md"
     }
   ],
   "omittedPaths": [],

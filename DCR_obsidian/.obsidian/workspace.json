@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_AI_Prompt/常識崩壊パートナー/常識崩壊ブレスト・パートナー.md",
+                "file": "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常識崩壊ブレスト・パートナー"
+              "title": "DeepResearch 指示書ジェネレーター"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 536.5
   },
   "right": {
     "id": "0b6335dba46b38b8",
@@ -206,9 +206,15 @@
   },
   "active": "314bb48a7e98821b",
   "lastOpenFiles": [
+    "再設計プロンプト【改修依頼】.md",
+    "再設計プロンプト【監査】.md",
+    "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター.md",
+    "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター v2.0.md",
+    "01_AI_Prompt/スライド骨子ジェネレーター/OS.md",
+    "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md",
+    "01_AI_Prompt/常識崩壊パートナー/常識崩壊ブレスト・パートナー.md",
     "01_AI_Prompt/プロンプト改善強化/Prompt Editorial Lab.md",
     "02_notebookLM/スライド骨子ジェネレーター/OS.md",
-    "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md",
     "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md",
@@ -222,7 +228,6 @@
     "01_AI_Prompt/🟢NEXUS_v10/04_NEXUS_Domain_Policy_v10.md",
     "01_AI_Prompt/🟢NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md",
     "改善依頼分.md",
-    "再設計プロンプト【監査】.md",
     "01_AI_Prompt/🟢NEXUS_v9/05_NEXUS_QA_and_Validation_v9.md",
     "01_AI_Prompt/🟢NEXUS_v9/01_NEXUS_Preset_Catalog_v9.md",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/08_NEXUS_Legacy_v9.pdf",
@@ -235,13 +240,8 @@
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/03_NEXUS_MODE_A_Contract_v9.pdf",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/01_NEXUS_Preset_Catalog_v9.pdf",
     "01_AI_Prompt/🟢NEXUS_v9 1/🟢NEXUS_v9_pdf/00_NEXUS_Kernel_v9.pdf",
-    "再設計プロンプト【改修依頼】.md",
     "01_AI_Prompt/🟢NEXUS_v9/NEXUS v9 Ignition Prompt.md",
     "01_AI_Prompt/カスタム指示文関連/統合運用プロンプト（運用版）.md",
-    "01_AI_Prompt/カスタム指示文関連/Gemini用/グローバルCI（常設ルール）.md",
-    "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示③：矛盾耐性仕様（Robust Spec）.md",
-    "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示②：収束統合仕様（Integrate Spec）.md",
-    "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示①：監査仕様（Audit Spec）.md",
     "08_パスワード関連/Microsoft 2段回認証.png",
     "無題のファイル.canvas",
     "08_パスワード関連/【ユーザー】楽天銀行　最新.png",
