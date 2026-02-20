@@ -1,104 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "Addons 設計シート v1.0",
-      "path": "01_AI_Prompt/🟢Prompt Generator/Addons 設計シート v1.0.md"
+      "basename": "【Prompt Forge】スライド依頼",
+      "path": "02_notebookLM/【Prompt Forge】スライド依頼.md"
     },
     {
-      "basename": "addons_prompt_engineering",
-      "path": "01_AI_Prompt/🟢Prompt Generator/addons_prompt_engineering.md"
+      "basename": "【常識崩壊ブレスト】スライド依頼",
+      "path": "02_notebookLM/【常識崩壊ブレスト】スライド依頼.md"
     },
     {
-      "basename": "addons_reasoning_models",
-      "path": "01_AI_Prompt/🟢Prompt Generator/addons_reasoning_models.md"
+      "basename": "【Prompt Forge】スライド構成",
+      "path": "02_notebookLM/【Prompt Forge】スライド構成.md"
     },
     {
-      "basename": "addons_nudge",
-      "path": "01_AI_Prompt/🟢Prompt Generator/addons_nudge.md"
+      "basename": "🟢Prompt Forge - 設計&改善 -",
+      "path": "01_AI_Prompt/🟢Prompt Forge - 設計&改善 -.md"
     },
     {
-      "basename": "addons_framework",
-      "path": "01_AI_Prompt/🟢Prompt Generator/addons_framework.md"
+      "basename": "00_System_ChaosOS",
+      "path": "01_AI_Prompt/🟡意味論的ビッグバン・エンジン/00_System_ChaosOS.md"
     },
     {
-      "basename": "DeepResearch 指示書ジェネレーター",
-      "path": "01_AI_Prompt/プロンプト改善強化/DeepResearch 指示書ジェネレーター.md"
+      "basename": "02_REALITY_ANCHOR",
+      "path": "01_AI_Prompt/🟡意味論的ビッグバン・エンジン/02_REALITY_ANCHOR.md"
     },
     {
-      "basename": "再設計プロンプト【改修依頼】",
-      "path": "再設計プロンプト【改修依頼】.md"
+      "basename": "01_CHAOS_GENERATOR",
+      "path": "01_AI_Prompt/🟡意味論的ビッグバン・エンジン/01_CHAOS_GENERATOR.md"
     },
     {
-      "basename": "再設計プロンプト【監査】",
-      "path": "再設計プロンプト【監査】.md"
+      "basename": "00_CORE_OS",
+      "path": "無題のフォルダ/常識崩壊パートナー/00_CORE_OS.md"
     },
     {
-      "basename": "OS",
-      "path": "01_AI_Prompt/スライド骨子ジェネレーター/OS.md"
+      "basename": "PERSONA_大臣",
+      "path": "無題のフォルダ/常識崩壊パートナー/PERSONA_大臣.md"
+    },
+    {
+      "basename": "PERSONA_解体屋",
+      "path": "無題のフォルダ/常識崩壊パートナー/PERSONA_解体屋.md"
+    },
+    {
+      "basename": "PERSONA_Snake",
+      "path": "無題のフォルダ/常識崩壊パートナー/PERSONA_Snake.md"
+    },
+    {
+      "basename": "FRAMEWORK_実行エンジン",
+      "path": "無題のフォルダ/常識崩壊パートナー/FRAMEWORK_実行エンジン.md"
+    },
+    {
+      "basename": "🔵NEXUS Omni-Kernel (Gemini 3.1 Pro Optimized)",
+      "path": "01_AI_Prompt/🔵NEXUS Omni-Kernel (Gemini 3.1 Pro Optimized).md"
+    },
+    {
+      "basename": "🔵NEXUS⊿F for Claude",
+      "path": "01_AI_Prompt/🔵NEXUS⊿F for Claude.md"
     },
     {
       "basename": "NEXUS v10 Ignition Prompt",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/NEXUS v10 Ignition Prompt.md"
+      "path": "無題のフォルダ/🔵NEXUS_v10/NEXUS v10 Ignition Prompt.md"
     },
     {
-      "basename": "常識崩壊ブレスト・パートナー",
-      "path": "01_AI_Prompt/常識崩壊パートナー/常識崩壊ブレスト・パートナー.md"
+      "basename": "🟡常識崩壊ブレストパートナー for claude",
+      "path": "01_AI_Prompt/🟡常識崩壊ブレストパートナー for claude.md"
     },
     {
-      "basename": "Prompt Editorial Lab",
-      "path": "01_AI_Prompt/プロンプト改善強化/Prompt Editorial Lab.md"
+      "basename": "🟢DeepResearch 指示書ジェネレーター",
+      "path": "01_AI_Prompt/🟢DeepResearch 指示書ジェネレーター.md"
     },
     {
-      "basename": "00_NEXUS_Kernel_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/00_NEXUS_Kernel_v10.md"
+      "basename": "🟢スライドジェネレーター",
+      "path": "01_AI_Prompt/🟢スライドジェネレーター.md"
     },
     {
-      "basename": "05_NEXUS_QA_and_Validation_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md"
+      "basename": "改善依頼分",
+      "path": "改善依頼分.md"
     },
     {
-      "basename": "03_NEXUS_MODE_A_Contract_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md"
+      "basename": "🟢Forge - 改善 -",
+      "path": "01_AI_Prompt/🟢Forge - 改善 -.md"
     },
     {
-      "basename": "02_NEXUS_Operational_Core_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/02_NEXUS_Operational_Core_v10.md"
+      "basename": "🔴DCR実務モード シグナル付き",
+      "path": "01_AI_Prompt/🔴DCR実務モード シグナル付き.md"
+    },
+    {
+      "basename": "🟣Claude Skill Creator",
+      "path": "01_AI_Prompt/🟣Claude Skill Creator.md"
+    },
+    {
+      "basename": "McKinsey風",
+      "path": "02_notebookLM/McKinsey風.md"
     },
     {
       "basename": "テスト",
       "path": "02_notebookLM/テスト.md"
     },
     {
-      "basename": "DCR実務モード",
-      "path": "01_AI_Prompt/カスタム指示文関連/DCR実務モード.md"
+      "basename": "OS",
+      "path": "無題のフォルダ/スライドジェネレーター/OS.md"
     },
     {
-      "basename": "DCR実務モード（強化フル）",
-      "path": "01_AI_Prompt/カスタム指示文関連/DCR実務モード（強化フル）.md"
+      "basename": "【スライド用】Prompt Editional Lab",
+      "path": "02_notebookLM/【スライド用】Prompt Editional Lab.md"
+    },
+    {
+      "basename": "00_NEXUS_Kernel_v10",
+      "path": "無題のフォルダ/🔵NEXUS_v10/00_NEXUS_Kernel_v10.md"
+    },
+    {
+      "basename": "05_NEXUS_QA_and_Validation_v10",
+      "path": "無題のフォルダ/🔵NEXUS_v10/05_NEXUS_QA_and_Validation_v10.md"
+    },
+    {
+      "basename": "03_NEXUS_MODE_A_Contract_v10",
+      "path": "無題のフォルダ/🔵NEXUS_v10/03_NEXUS_MODE_A_Contract_v10.md"
+    },
+    {
+      "basename": "02_NEXUS_Operational_Core_v10",
+      "path": "無題のフォルダ/🔵NEXUS_v10/02_NEXUS_Operational_Core_v10.md"
     },
     {
       "basename": "08_NEXUS_Legacy_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/08_NEXUS_Legacy_v10.md"
+      "path": "無題のフォルダ/🔵NEXUS_v10/08_NEXUS_Legacy_v10.md"
     },
     {
       "basename": "07_NEXUS_Reference_Guide_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/07_NEXUS_Reference_Guide_v10.md"
+      "path": "無題のフォルダ/🔵NEXUS_v10/07_NEXUS_Reference_Guide_v10.md"
     },
     {
       "basename": "06_NEXUS_Modules_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/06_NEXUS_Modules_v10.md"
+      "path": "無題のフォルダ/🔵NEXUS_v10/06_NEXUS_Modules_v10.md"
     },
     {
       "basename": "04_NEXUS_Domain_Policy_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/04_NEXUS_Domain_Policy_v10.md"
+      "path": "無題のフォルダ/🔵NEXUS_v10/04_NEXUS_Domain_Policy_v10.md"
     },
     {
       "basename": "01_NEXUS_Preset_Catalog_v10",
-      "path": "01_AI_Prompt/🟢NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md"
-    },
-    {
-      "basename": "改善依頼分",
-      "path": "改善依頼分.md"
+      "path": "無題のフォルダ/🔵NEXUS_v10/01_NEXUS_Preset_Catalog_v10.md"
     },
     {
       "basename": "05_NEXUS_QA_and_Validation_v9",
@@ -113,30 +153,6 @@
       "path": "01_AI_Prompt/🟢NEXUS_v9/NEXUS v9 Ignition Prompt.md"
     },
     {
-      "basename": "統合運用プロンプト（運用版）",
-      "path": "01_AI_Prompt/カスタム指示文関連/統合運用プロンプト（運用版）.md"
-    },
-    {
-      "basename": "グローバルCI（常設ルール）",
-      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/グローバルCI（常設ルール）.md"
-    },
-    {
-      "basename": "システム指示③：矛盾耐性仕様（Robust Spec）",
-      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示③：矛盾耐性仕様（Robust Spec）.md"
-    },
-    {
-      "basename": "システム指示②：収束統合仕様（Integrate Spec）",
-      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示②：収束統合仕様（Integrate Spec）.md"
-    },
-    {
-      "basename": "システム指示①：監査仕様（Audit Spec）",
-      "path": "01_AI_Prompt/カスタム指示文関連/Gemini用/システム指示①：監査仕様（Audit Spec）.md"
-    },
-    {
-      "basename": "統合システム体型プロンプト（仕様書）",
-      "path": "01_AI_Prompt/カスタム指示文関連/統合システム体型プロンプト（仕様書）.md"
-    },
-    {
       "basename": "マイナンバー_署名用暗証番号",
       "path": "88_パスワード関連/マイナンバー_署名用暗証番号.md"
     },
@@ -149,24 +165,8 @@
       "path": "88_パスワード関連/三菱UFJ.md"
     },
     {
-      "basename": "デザイン設計",
-      "path": "02_notebookLM/デザイン設計.md"
-    },
-    {
-      "basename": "【常識崩壊ブレスト】スライド依頼",
-      "path": "02_notebookLM/【常識崩壊ブレスト】スライド依頼.md"
-    },
-    {
       "basename": "【スライド用】常識崩壊ブレスト・パートナー",
       "path": "02_notebookLM/【スライド用】常識崩壊ブレスト・パートナー.md"
-    },
-    {
-      "basename": "【スライド用】Prompt Editional Lab",
-      "path": "02_notebookLM/【スライド用】Prompt Editional Lab.md"
-    },
-    {
-      "basename": "【PEL】スライド依頼",
-      "path": "02_notebookLM/【PEL】スライド依頼.md"
     },
     {
       "basename": "NEXUS v9 Ignition Prompt",
@@ -191,14 +191,6 @@
     {
       "basename": "04_NEXUS_Domain_Policy_v9",
       "path": "01_AI_Prompt/🟢NEXUS_v9_preset/04_NEXUS_Domain_Policy_v9.md"
-    },
-    {
-      "basename": "03_NEXUS_MODE_A_Contract_v9",
-      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/03_NEXUS_MODE_A_Contract_v9.md"
-    },
-    {
-      "basename": "02_NEXUS_Operational_Core_v9",
-      "path": "01_AI_Prompt/🟢NEXUS_v9_preset/02_NEXUS_Operational_Core_v9.md"
     }
   ],
   "omittedPaths": [],

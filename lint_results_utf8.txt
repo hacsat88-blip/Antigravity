@@ -1,0 +1,1642 @@
+﻿node.exe : DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢
+繝ｼ繝・繧ｷ繧ｰ繝翫Ν莉倥″.md:1 error MD041/first-line-head
+ing/first-line-h1 First line in a file should b
+e a top-level heading [Context: "## Layer 0・壼・騾
+壼渕逶､・・oundation・・]
+発生場所 C:\nvm4w\nodejs\npx.ps1:29 文字:3
++   & $NODE_EXE $NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D 
+   CR_obsidian/01...､・・oundation・・]:String) [  
+  ], RemoteException
+    + FullyQualifiedErrorId : NativeCommandErr 
+   or
+ 
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:3 error MD022/blanks-around-headings Hea
+dings should be surrounded by blank lines [Expe
+cted: 1; Actual: 0; Below] [Context: "### 0.1 逶
+ｮ逧・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:7 error MD022/blanks-around-headings Hea
+dings should be surrounded by blank lines [Expe
+cted: 1; Actual: 0; Below] [Context: "### 0.2 譛
+荳贋ｽ阪Ν繝ｼ繝ｫ・亥━蜈磯・ｽ搾ｼ・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:8 error MD032/blanks-around-lists Lists 
+should be surrounded by blank lines [Context: "
+1. 螳牙・・磯＆豕輔・蜊ｱ螳ｳ繝ｻ鬮倥Μ繧ｹ繧ｯ蜉ｩ髟ｷ繧帝∩縺代ｋ・・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:37 error MD022/blanks-around-headings He
+adings should be surrounded by blank lines [Exp
+ected: 1; Actual: 0; Below] [Context: "### 2.1 
+繝医Μ繧ｬ繝ｼ隕冗ｴ・ｼ医さ繝槭Φ繝・縺ｾ縺溘・ 閾ｪ辟ｶ險隱橸ｼ・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:43 error MD022/blanks-around-headings He
+adings should be surrounded by blank lines [Exp
+ected: 1; Actual: 0; Below] [Context: "#### a/ 
+窶・逶｣譟ｻ・・udit・・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:44 error MD032/blanks-around-lists Lists
+ should be surrounded by blank lines [Context: 
+"- **謖吝虚:** 閥縺ｨ泯繧堤ｩ肴･ｵ逧・↓蜃ｺ縺励∵ｬ髯･繧堤ｶｲ鄒・噪縺ｫ.
+.."]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:47 error MD022/blanks-around-headings He
+adings should be surrounded by blank lines [Exp
+ected: 1; Actual: 0; Below] [Context: "#### i/ 
+窶・邨ｱ蜷茨ｼ・ntegrate・峨先里螳壹・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:48 error MD032/blanks-around-lists Lists
+ should be surrounded by blank lines [Context: 
+"- **謖吝虚:** 泙繧堤岼謖・＠縲∬｡晉ｪ√ｒ隗｣豸医＠縺ｦ荳縺､縺ｮ隗｣縺ｫ縺ｾ.
+.."]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:51 error MD022/blanks-around-headings He
+adings should be surrounded by blank lines [Exp
+ected: 1; Actual: 0; Below] [Context: "#### r/ 
+窶・遏帷崟閠先ｧ・・obust・・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:52 error MD032/blanks-around-lists Lists
+ should be surrounded by blank lines [Context: 
+"- **謖吝虚:** 遏帷崟繧帝國縺輔★縲∽ｸ｡隲紋ｽｵ險倥∪縺溘・證ｫ螳夊ｧ｣繧堤､ｺ縺・
+.."]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:57 error MD022/blanks-around-headings He
+adings should be surrounded by blank lines [Exp
+ected: 1; Actual: 0; Below] [Context: "#### s/ 
+窶・Stepback・井ｿｯ迸ｰ・・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:58 error MD032/blanks-around-lists Lists
+ should be surrounded by blank lines [Context: 
+"- **謖吝虚:** 邏ｰ驛ｨ縺ｧ縺ｯ縺ｪ縺上檎岼逧・・譁ｹ蜷第ｧ縲阪↓辟ｦ轤ｹ繧貞ｽ薙
+※..."]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:61 error MD022/blanks-around-headings He
+adings should be surrounded by blank lines [Exp
+ected: 1; Actual: 0; Below] [Context: "#### d/ 
+窶・Devil・域э蝨ｰ謔ｪ縺ｪ隕也せ・・]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:62 error MD032/blanks-around-lists Lists
+ should be surrounded by blank lines [Context: 
+"- **謖吝虚:** 縺ゅ∴縺ｦ縲悟､ｱ謨励☆繧九す繝翫Μ繧ｪ縲阪ｄ縲瑚・蜻ｽ逧・↑蠑ｱ..
+."]
+DCR_obsidian/01_AI_Prompt/閥DCR螳溷漁繝｢繝ｼ繝・繧ｷ繧ｰ繝翫Ν
+莉倥″.md:63:22 error MD047/single-trailing-newlin
+e Files should end with a single newline charac
+ter
+DCR_obsidian/01_AI_Prompt/鳩NEXUS Omni-Kernel (
+Gemini 3.1 Pro Optimized).md:9 error MD022/blan
+ks-around-headings Headings should be surrounde
+d by blank lines [Expected: 1; Actual: 0; Below
+] [Context: "## 0. The Three Axioms (邨ｶ蟇ｾ蜈ｬ逅・"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS Omni-Kernel (
+Gemini 3.1 Pro Optimized).md:15:81 error MD013/
+line-length Line length [Expected: 80; Actual: 
+106]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS Omni-Kernel (
+Gemini 3.1 Pro Optimized).md:21 error MD022/bla
+nks-around-headings Headings should be surround
+ed by blank lines [Expected: 1; Actual: 0; Belo
+w] [Context: "## 1. Cognitive Engine (蜍慕噪謗ｨ隲悶・繝
+ｭ繝医さ繝ｫ)"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS Omni-Kernel (
+Gemini 3.1 Pro Optimized).md:33 error MD022/bla
+nks-around-headings Headings should be surround
+ed by blank lines [Expected: 1; Actual: 0; Belo
+w] [Context: "## 2. Decision Kernel (蜃ｺ蜉帙せ繝医Λ繧ｯ
+繝√Ε繝ｼ)"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS Omni-Kernel (
+Gemini 3.1 Pro Optimized).md:43 error MD022/bla
+nks-around-headings Headings should be surround
+ed by blank lines [Expected: 1; Actual: 0; Belo
+w] [Context: "## 3. Manifest Protocols (繝槭Ν繝√Δ繝
+ｼ繝繝ｫ蜈ｷ迴ｾ蛹・"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS Omni-Kernel (
+Gemini 3.1 Pro Optimized).md:57:73 error MD047/
+single-trailing-newline Files should end with a
+ single newline character
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:31:8 error MD060/table-column-style Table c
+olumn style [Table pipe is missing space to the
+ left for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:31:15 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e left for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:31:1 error MD060/table-column-style Table c
+olumn style [Table pipe is missing space to the
+ right for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:31:8 error MD060/table-column-style Table c
+olumn style [Table pipe is missing space to the
+ right for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:48:9 error MD060/table-column-style Table c
+olumn style [Table pipe is missing space to the
+ left for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:48:16 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e left for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:48:23 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e left for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:48:1 error MD060/table-column-style Table c
+olumn style [Table pipe is missing space to the
+ right for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:48:9 error MD060/table-column-style Table c
+olumn style [Table pipe is missing space to the
+ right for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:48:16 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e right for style "compact"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:60 error MD036/no-emphasis-as-heading Empha
+sis used instead of a heading [Context: "遨ｺ髢・]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:61 error MD032/blanks-around-lists Lists sh
+ould be surrounded by blank lines [Context: "- 
+蜈峨→髯ｰ蠖ｱ・亥・貅先婿蜷代∝ｽｱ縺ｮ雉ｪ縲√さ繝ｳ繝医Λ繧ｹ繝茨ｼ・]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:67 error MD036/no-emphasis-as-heading Empha
+sis used instead of a heading [Context: "讒句峙"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:68 error MD032/blanks-around-lists Lists sh
+ould be surrounded by blank lines [Context: "- 
+隕也せ・医き繝｡繝ｩ菴咲ｽｮ縺ｨ霍晞屬諢滂ｼ・]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:74 error MD036/no-emphasis-as-heading Empha
+sis used instead of a heading [Context: "譎る俣"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:75 error MD032/blanks-around-lists Lists sh
+ould be surrounded by blank lines [Context: "- 
+譎ょ綾縺ｨ蟄｣遽縺ｮ豌鈴・"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:78 error MD036/no-emphasis-as-heading Empha
+sis used instead of a heading [Context: "諠・ｷ・]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:79 error MD032/blanks-around-lists Lists sh
+ould be surrounded by blank lines [Context: "- 
+Signature Phenomenon・・縺､・・]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:83 error MD036/no-emphasis-as-heading Empha
+sis used instead of a heading [Context: "莠ｺ迚ｩ縺後
+＞繧句ｴ蜷医・縺ｿ"]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:84 error MD032/blanks-around-lists Lists sh
+ould be surrounded by blank lines [Context: "- 
+縺ｩ縺・惠繧九°・井ｽ輔ｒ縺励※縺・ｋ縺九ｈ繧雁ｭ伜惠諢滂ｼ・]
+DCR_obsidian/01_AI_Prompt/鳩NEXUS竓ｿF for Claude
+.md:161:27 error MD047/single-trailing-newline 
+Files should end with a single newline characte
+r
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/01_CHAOS_GENERATOR.md:5 error MD022/blank
+s-around-headings Headings should be surrounded
+ by blank lines [Expected: 1; Actual: 0; Below]
+ [Context: "## 徴 迢よｰ励お繝ｳ繧ｸ繝ｳA・壽э蜻ｳ縺ｮ遯∫┯螟臥焚・・em
+antic Glitch・・]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/01_CHAOS_GENERATOR.md:8 error MD032/blank
+s-around-lists Lists should be surrounded by bl
+ank lines [Context: "* ・井ｾ具ｼ峨後い繝励Μ繧・*雋ｩ螢ｲ縺吶ｋ**
+縲・竊・縲後い繝励Μ繧・*逋ｺ..."]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/01_CHAOS_GENERATOR.md:12 error MD022/blan
+ks-around-headings Headings should be surrounde
+d by blank lines [Expected: 1; Actual: 0; Below
+] [Context: "## 徴 迢よｰ励お繝ｳ繧ｸ繝ｳB・壽怙謔ｪ謇九・遖∝ｿ後・蠑ｷ蛻
+ｶ・・he Dark Mirror・・]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/01_CHAOS_GENERATOR.md:15 error MD032/blan
+ks-around-lists Lists should be surrounded by b
+lank lines [Context: "* ・井ｾ具ｼ峨檎､ｾ蜩｡縺ｮ繝｢繝√・繝ｼ繧ｷ
+繝ｧ繝ｳ繧剃ｸ翫￡繧九・竊・縲後Δ繝√・繝ｼ繧ｷ..."]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/01_CHAOS_GENERATOR.md:18 error MD022/blan
+ks-around-headings Headings should be surrounde
+d by blank lines [Expected: 1; Actual: 0; Below
+] [Context: "## 徴 迢よｰ励お繝ｳ繧ｸ繝ｳC・夂黄逅・ｳ募援繝ｻ蟆ｺ蠎ｦ縺ｮ
+蟠ｩ螢奇ｼ・imensional Collapse・・]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/01_CHAOS_GENERATOR.md:21 error MD032/blan
+ks-around-lists Lists should be surrounded by b
+lank lines [Context: "* ・井ｾ具ｼ峨碁㍾蜉帙′繝ｩ繝ｳ繝繝縺ｫ螟
+峨ｏ繧狗ｩｺ髢薙〒縺薙・繧ｵ繝ｼ繝薙せ繧呈署萓帙＠..."]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/01_CHAOS_GENERATOR.md:24:53 error MD047/s
+ingle-trailing-newline Files should end with a 
+single newline character
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/02_REALITY_ANCHOR.md:7 error MD022/blanks
+-around-headings Headings should be surrounded 
+by blank lines [Expected: 1; Actual: 0; Below] 
+[Context: "### 虫 縲舌く繝ｩ繝ｪ縺ｨ蜈峨ｋ譛ｬ雉ｪ・・he Meaning 
+Alchemy・峨・]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/02_REALITY_ANCHOR.md:11 error MD022/blank
+s-around-headings Headings should be surrounded
+ by blank lines [Expected: 1; Actual: 0; Below]
+ [Context: "### ｧｱ 縲占占差螢・ｼ・he Load-Bearing Wa
+ll・峨・]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/02_REALITY_ANCHOR.md:14 error MD022/blank
+s-around-headings Headings should be surrounded
+ by blank lines [Expected: 1; Actual: 0; Below]
+ [Context: "### 竢ｱ・・縲先・譌･縺ｧ縺阪ｋ30蛻・・螂・｡鯉ｼ・he 30-
+Minute Joke・峨・]
+DCR_obsidian/01_AI_Prompt/泯諢丞袖隲也噪繝薙ャ繧ｰ繝舌Φ繝ｻ繧ｨ繝
+ｳ繧ｸ繝ｳ/02_REALITY_ANCHOR.md:15:72 error MD047/si
+ngle-trailing-newline Files should end with a s
+ingle newline character
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:8:11 error MD060/table-colum
+n-style Table column style [Table pipe has extr
+a space to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:8:27 error MD060/table-colum
+n-style Table column style [Table pipe has extr
+a space to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:8:64 error MD060/table-colum
+n-style Table column style [Table pipe has extr
+a space to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:10:27 error MD060/table-colu
+mn-style Table column style [Table pipe has ext
+ra space to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:10:64 error MD060/table-colu
+mn-style Table column style [Table pipe has ext
+ra space to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:11:27 error MD060/table-colu
+mn-style Table column style [Table pipe has ext
+ra space to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:11:64 error MD060/table-colu
+mn-style Table column style [Table pipe has ext
+ra space to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:16 error MD022/blanks-around
+-headings Headings should be surrounded by blan
+k lines [Expected: 1; Actual: 0; Below] [Contex
+t: "### Snake・井ｼ晁ｪｬ縺ｮ蛯ｭ蜈ｵ・・]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:17 error MD032/blanks-around
+-lists Lists should be surrounded by blank line
+s [Context: "- 蛻ｶ邏・ｼ壹御ｽ輔′驕疲・縺輔ｌ縺溘ｉ繝溘ャ繧ｷ繝ｧ繝ｳ繧ｳ繝
+ｳ繝励Μ繝ｼ繝医°・溘榊ｮ御ｺ・.."]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:22 error MD022/blanks-around
+-headings Headings should be surrounded by blan
+k lines [Expected: 1; Actual: 0; Below] [Contex
+t: "### 隗｣菴灘ｱ具ｼ亥｣翫＠螻九・驩・鳩・・]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:23 error MD032/blanks-around
+-lists Lists should be surrounded by blank line
+s [Context: "- 蛻ｶ邏・ｼ壹瑚占差螢√・縺ｩ縺薙°・溘榊｣翫＠縺溘ｉ蜈ｨ菴
+薙′豁ｻ縺ｬ蜑肴署縺ｨ縲√◆縺..."]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:28 error MD022/blanks-around
+-headings Headings should be surrounded by blan
+k lines [Expected: 1; Actual: 0; Below] [Contex
+t: "### 螟ｧ閾｣・育ｩｺ逋ｽ螟ｧ閾｣・・]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:29 error MD032/blanks-around
+-lists Lists should be surrounded by blank line
+s [Context: "- 蛻ｶ邏・ｼ壹後◎縺ｮ蝠上＞縺ｯ莉顔ｭ斐∴繧九∋縺榊撫縺・°・溘
+咲ｭ斐∴繧剃ｿ晉蕗縺励∫ｩｺ..."]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:41 error MD032/blanks-around
+-lists Lists should be surrounded by blank line
+s [Context: "1. 隱ｰ縺ｮ縲√←繧薙↑逞帙∩繧偵√←縺・ｧ｣豎ｺ縺吶ｋ縺銀披
+・陦後〒險縺医ｋ縺具ｼ・]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:58 error MD032/blanks-around
+-lists Lists should be surrounded by blank line
+s [Context: "1. Insight窶披斐Θ繝ｼ繧ｶ繝ｼ縺瑚ｨ隱槫喧縺ｧ縺阪※縺
+・↑縺九▲縺滓悽雉ｪ..."]
+DCR_obsidian/01_AI_Prompt/泯蟶ｸ隴伜ｴｩ螢翫ヶ繝ｬ繧ｹ繝医ヱ繝ｼ繝
+医リ繝ｼ for claude.md:59:30 error MD047/single-tra
+iling-newline Files should end with a single ne
+wline character
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:60
+:5 error MD060/table-column-style Table column 
+style [Table pipe is missing space to the left 
+for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:60
+:12 error MD060/table-column-style Table column
+ style [Table pipe is missing space to the left
+ for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:60
+:19 error MD060/table-column-style Table column
+ style [Table pipe is missing space to the left
+ for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:60
+:1 error MD060/table-column-style Table column 
+style [Table pipe is missing space to the right
+ for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:60
+:5 error MD060/table-column-style Table column 
+style [Table pipe is missing space to the right
+ for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:60
+:12 error MD060/table-column-style Table column
+ style [Table pipe is missing space to the righ
+t for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:76
+ error MD032/blanks-around-lists Lists should b
+e surrounded by blank lines [Context: "1. 繝励Ο繝ｳ
+繝励ヨ繧貞女縺大叙繧・]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:82
+ error MD032/blanks-around-lists Lists should b
+e surrounded by blank lines [Context: "1. B1縲廝4
+繧貞撫縺・ｼ医∪縺ｨ繧√※閨槭＞縺ｦ繧医＞・・]
+DCR_obsidian/01_AI_Prompt/泙Forge - 謾ｹ蝟・-.md:94
+:25 error MD047/single-trailing-newline Files s
+hould end with a single newline character
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:44:5 error MD060/table-column-style Ta
+ble column style [Table pipe is missing space t
+o the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:44:12 error MD060/table-column-style T
+able column style [Table pipe is missing space 
+to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:44:19 error MD060/table-column-style T
+able column style [Table pipe is missing space 
+to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:44:1 error MD060/table-column-style Ta
+ble column style [Table pipe is missing space t
+o the right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:44:5 error MD060/table-column-style Ta
+ble column style [Table pipe is missing space t
+o the right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:44:12 error MD060/table-column-style T
+able column style [Table pipe is missing space 
+to the right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:104:5 error MD060/table-column-style T
+able column style [Table pipe is missing space 
+to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:104:12 error MD060/table-column-style 
+Table column style [Table pipe is missing space
+ to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:104:19 error MD060/table-column-style 
+Table column style [Table pipe is missing space
+ to the left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:104:1 error MD060/table-column-style T
+able column style [Table pipe is missing space 
+to the right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:104:5 error MD060/table-column-style T
+able column style [Table pipe is missing space 
+to the right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:104:12 error MD060/table-column-style 
+Table column style [Table pipe is missing space
+ to the right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙Prompt Forge - 險ｭ險・
+謾ｹ蝟・-.md:121:27 error MD047/single-trailing-new
+line Files should end with a single newline cha
+racter
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:45:8 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:45:14 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:45:20 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:45:1 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:45:8 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:45:14 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:61:6 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:61:13 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:61:24 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:61:1 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:61:6 error MD060/table-column-style Table 
+column style [Table pipe is missing space to th
+e right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:61:13 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:93 error MD040/fenced-code-language Fenced
+ code blocks should have a language specified [
+Context: "```"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:106 error MD032/blanks-around-lists Lists 
+should be surrounded by blank lines [Context: "
+- 繝薙ず繝阪せ蟇・ｊ縺ｮ繧ｿ繝ｼ繧ｲ繝・ヨ 竊・繧ｷ繝ｳ繝励Ν繝ｻ菴咏區螟壹ａ繝ｻ謨ｰ蟄励〒
+..."]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:115:5 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:115:9 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he left for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:115:1 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:115:5 error MD060/table-column-style Table
+ column style [Table pipe is missing space to t
+he right for style "compact"]
+DCR_obsidian/01_AI_Prompt/泙繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝
+ｼ.md:131:43 error MD047/single-trailing-newline
+ Files should end with a single newline charact
+er
+DCR_obsidian/01_AI_Prompt/泪Claude Skill Creato
+r.md:10:81 error MD013/line-length Line length 
+[Expected: 80; Actual: 115]
+DCR_obsidian/01_AI_Prompt/泪Claude Skill Creato
+r.md:102:81 error MD013/line-length Line length
+ [Expected: 80; Actual: 93]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝我ｾ晞ｼ.md:14:54 error MD047/single-trailing-new
+line Files should end with a single newline cha
+racter
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:1 error MD022/blanks-around-headings H
+eadings should be surrounded by blank lines [Ex
+pected: 1; Actual: 0; Below] [Context: "=======
+========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:11 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "繝励Ο繝ｳ繝励ヨ菴懈・縺ｫ縺翫￠繧九√◎繧薙↑謔ｩ縺ｿ縺ｯ莉頑律縺
+ｧ邨ゅｏ繧翫∪縺吶・蠢・ｦ・.."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:12:19 error MD026/no-trailing-punctuat
+ion Trailing punctuation in heading [Punctuatio
+n: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:15 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "======
+=========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:15 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "==============================..."
+]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:23 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "繝ｦ繝ｼ繧ｶ繝ｼ縺ｮ諢丞峙繧定ｪｭ縺ｿ蜿悶ｊ縲∵ｱｺ縺励※遐ｴ邯ｻ縺
+励↑縺・・繝ｭ繝ｳ繝励ヨ繧偵碁惚騾..."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:24:36 error MD026/no-trailing-punctuat
+ion Trailing punctuation in heading [Punctuatio
+n: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:27 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "======
+=========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:27 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "==============================..."
+]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:35 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "陦晉ｪ∵凾縺ｮ蜆ｪ蜈磯・ｽ阪・縲悟ｮ牙・ ・・逶ｮ逧・・・豁｣遒ｺ
+諤ｧ ・・驕狗畑雋闕ｷ..."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:36:40 error MD026/no-trailing-punctuat
+ion Trailing punctuation in heading [Punctuatio
+n: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:39 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "======
+=========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:39 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "==============================..."
+]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:54 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "======
+=========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:54 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "==============================..."
+]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:65 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "髟ｷ縺剰､・尅縺ｪ謖・､ｺ繧貞炎縺手誠縺ｨ縺吶％縺ｨ縺ｧ縲、I縺ｮ霑
+ｷ縺・′豸医∴縺ｾ縺吶・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:65:28 error MD026/no-trailing-punctuat
+ion Trailing punctuation in heading [Punctuatio
+n: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:68 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "======
+=========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:68 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "==============================..."
+]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:76 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "荳蠎ｦ邏譚舌ｒ閼・↓鄂ｮ縺阪√後％縺ｮ逶ｮ逧・ｒ驕疲・縺吶ｋ
+譛蝟・・險ｭ險医阪ｒ繧ｼ繝ｭ縺・.."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:77:40 error MD026/no-trailing-punctuat
+ion Trailing punctuation in heading [Punctuatio
+n: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:80 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "======
+=========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:80 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "==============================..."
+]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:88 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "萓九∴縺ｰ縲悟・蜉帙′荳榊ｮ牙ｮ壹阪↑繧峨梧・蜉溘→螟ｱ謨励ｒ蛻
+・￠縺ｦ縺・ｋ螟画焚縺ｯ菴輔°..."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:89:44 error MD026/no-trailing-punctuat
+ion Trailing punctuation in heading [Punctuatio
+n: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:92 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "======
+=========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:92 error MD025/single-title/single-h1 
+Multiple top-level headings in the same documen
+t [Context: "==============================..."
+]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:100 error MD025/single-title/single-h1
+ Multiple top-level headings in the same docume
+nt [Context: "繝ｻ謗ｨ隲悶Δ繝・Ν・・3遲会ｼ会ｼ壹ざ繝ｼ繝ｫ縺ｨ蛻ｶ邏・□縺代
+ｒ貂｡縺励∬ｩｳ邏ｰ縺ｪ謇矩・・..."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:101:35 error MD026/no-trailing-punctua
+tion Trailing punctuation in heading [Punctuati
+on: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:104 error MD022/blanks-around-headings
+ Headings should be surrounded by blank lines [
+Expected: 1; Actual: 0; Below] [Context: "=====
+==========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:104 error MD025/single-title/single-h1
+ Multiple top-level headings in the same docume
+nt [Context: "==============================...
+"]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:112 error MD025/single-title/single-h1
+ Multiple top-level headings in the same docume
+nt [Context: "驕主臆縺ｫ諠・ｱ繧定ｩｰ繧∬ｾｼ繧薙〒螢翫ｌ繧九ｈ繧翫ｂ縲∽ｿｮ
+蠕ｩ縺励ｄ縺吶＞縲梧怙蟆乗ｧ区・縲・.."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:113:36 error MD026/no-trailing-punctua
+tion Trailing punctuation in heading [Punctuati
+on: '縲・]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:116 error MD022/blanks-around-headings
+ Headings should be surrounded by blank lines [
+Expected: 1; Actual: 0; Below] [Context: "=====
+==========================="]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:116 error MD025/single-title/single-h1
+ Multiple top-level headings in the same docume
+nt [Context: "==============================...
+"]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:124 error MD025/single-title/single-h1
+ Multiple top-level headings in the same docume
+nt [Context: "縺ｾ縺壹・荳逡ｪ荳頑焔縺上＞縺｣縺ｦ縺・↑縺・・繝ｭ繝ｳ繝励ヨ繧
+剃ｸ縺､逕ｨ諢上＠縲√御ｸ咲ｴ皮黄..."]
+DCR_obsidian/02_notebookLM/縲娠rompt Forge縲代せ繝ｩ繧､
+繝画ｧ区・.md:125:32 error MD047/single-trailing-new
+line Files should end with a single newline cha
+racter
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:1:81 e
+rror MD013/line-length Line length [Expected: 8
+0; Actual: 278]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:1 erro
+r MD041/first-line-heading/first-line-h1 First 
+line in a file should be a top-level heading [C
+ontext: "Conduct a comprehensive analys..."]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:4:81 e
+rror MD013/line-length Line length [Expected: 8
+0; Actual: 168]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:7:81 e
+rror MD013/line-length Line length [Expected: 8
+0; Actual: 182]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:7 erro
+r MD032/blanks-around-lists Lists should be sur
+rounded by blank lines [Context: "1. Rich Data 
+Visualization: Th..."]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:8:81 e
+rror MD013/line-length Line length [Expected: 8
+0; Actual: 105]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:9:81 e
+rror MD013/line-length Line length [Expected: 8
+0; Actual: 148]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:12 err
+or MD032/blanks-around-lists Lists should be su
+rrounded by blank lines [Context: "1. Aesthetic
+: Tech-minimalist ..."]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:13:81 
+error MD013/line-length Line length [Expected: 
+80; Actual: 165]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:14:81 
+error MD013/line-length Line length [Expected: 
+80; Actual: 159]
+DCR_obsidian/02_notebookLM/McKinsey鬚ｨ.md:15:86 
+error MD047/single-trailing-newline Files shoul
+d end with a single newline character
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/00_NEXUS_
+Kernel_v10.md:10:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 141]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/00_NEXUS_
+Kernel_v10.md:40:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 124]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/00_NEXUS_
+Kernel_v10.md:46:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 93]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/00_NEXUS_
+Kernel_v10.md:69:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 107]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/00_NEXUS_
+Kernel_v10.md:155:81 error MD013/line-length Li
+ne length [Expected: 80; Actual: 106]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/01_NEXUS_
+Preset_Catalog_v10.md:66:81 error MD013/line-le
+ngth Line length [Expected: 80; Actual: 99]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/01_NEXUS_
+Preset_Catalog_v10.md:190:81 error MD013/line-l
+ength Line length [Expected: 80; Actual: 100]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:4:81 error MD013/line-l
+ength Line length [Expected: 80; Actual: 99]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:46:81 error MD013/line-
+length Line length [Expected: 80; Actual: 127]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:51:81 error MD013/line-
+length Line length [Expected: 80; Actual: 87]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:102:81 error MD013/line
+-length Line length [Expected: 80; Actual: 102]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:142:81 error MD013/line
+-length Line length [Expected: 80; Actual: 158]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:186:81 error MD013/line
+-length Line length [Expected: 80; Actual: 141]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:341:81 error MD013/line
+-length Line length [Expected: 80; Actual: 93]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:407:81 error MD013/line
+-length Line length [Expected: 80; Actual: 91]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/02_NEXUS_
+Operational_Core_v10.md:472:81 error MD013/line
+-length Line length [Expected: 80; Actual: 124]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/03_NEXUS_
+MODE_A_Contract_v10.md:40:81 error MD013/line-l
+ength Line length [Expected: 80; Actual: 111]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/03_NEXUS_
+MODE_A_Contract_v10.md:273:81 error MD013/line-
+length Line length [Expected: 80; Actual: 98]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/03_NEXUS_
+MODE_A_Contract_v10.md:335:81 error MD013/line-
+length Line length [Expected: 80; Actual: 104]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/04_NEXUS_
+Domain_Policy_v10.md:4:81 error MD013/line-leng
+th Line length [Expected: 80; Actual: 90]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/04_NEXUS_
+Domain_Policy_v10.md:327:81 error MD013/line-le
+ngth Line length [Expected: 80; Actual: 97]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/05_NEXUS_
+QA_and_Validation_v10.md:24:81 error MD013/line
+-length Line length [Expected: 80; Actual: 111]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/06_NEXUS_
+Modules_v10.md:75:81 error MD013/line-length Li
+ne length [Expected: 80; Actual: 96]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/06_NEXUS_
+Modules_v10.md:206:81 error MD013/line-length L
+ine length [Expected: 80; Actual: 98]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:12:81 error MD013/line-l
+ength Line length [Expected: 80; Actual: 86]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:131:81 error MD013/line-
+length Line length [Expected: 80; Actual: 86]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:132:81 error MD013/line-
+length Line length [Expected: 80; Actual: 86]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:136:81 error MD013/line-
+length Line length [Expected: 80; Actual: 100]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:139:81 error MD013/line-
+length Line length [Expected: 80; Actual: 99]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:141:81 error MD013/line-
+length Line length [Expected: 80; Actual: 97]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:143:81 error MD013/line-
+length Line length [Expected: 80; Actual: 108]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:146:81 error MD013/line-
+length Line length [Expected: 80; Actual: 113]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:147:81 error MD013/line-
+length Line length [Expected: 80; Actual: 91]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:149:81 error MD013/line-
+length Line length [Expected: 80; Actual: 94]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:150:81 error MD013/line-
+length Line length [Expected: 80; Actual: 96]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:152:81 error MD013/line-
+length Line length [Expected: 80; Actual: 125]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:155:81 error MD013/line-
+length Line length [Expected: 80; Actual: 91]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:156:81 error MD013/line-
+length Line length [Expected: 80; Actual: 91]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:157:81 error MD013/line-
+length Line length [Expected: 80; Actual: 85]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:158:81 error MD013/line-
+length Line length [Expected: 80; Actual: 95]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:159:81 error MD013/line-
+length Line length [Expected: 80; Actual: 101]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/07_NEXUS_
+Reference_Guide_v10.md:161:81 error MD013/line-
+length Line length [Expected: 80; Actual: 87]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/08_NEXUS_
+Legacy_v10.md:87:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 143]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/08_NEXUS_
+Legacy_v10.md:88:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 116]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/08_NEXUS_
+Legacy_v10.md:89:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 99]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/08_NEXUS_
+Legacy_v10.md:90:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 103]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/08_NEXUS_
+Legacy_v10.md:98:81 error MD013/line-length Lin
+e length [Expected: 80; Actual: 118]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/鳩NEXUS_v10/NEXUS v10
+ Ignition Prompt.md:3 error MD001/heading-incre
+ment Heading levels should only increment by on
+e level at a time [Expected: h2; Actual: h3]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+OS.md:15:15 error MD060/table-column-style Tabl
+e column style [Table pipe has extra space to t
+he left for style "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+OS.md:15:23 error MD060/table-column-style Tabl
+e column style [Table pipe has extra space to t
+he left for style "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+OS.md:15:49 error MD060/table-column-style Tabl
+e column style [Table pipe has extra space to t
+he left for style "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+OS.md:18:23 error MD060/table-column-style Tabl
+e column style [Table pipe has extra space to t
+he left for style "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:12:8 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the left for style
+ "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:12:20 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:12:1 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:12:8 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:48:1 error 
+MD029/ol-prefix Ordered list item prefix [Expec
+ted: 1; Actual: 6; Style: 1/2/3]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:62:8 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the left for style
+ "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:62:17 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:62:1 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:62:8 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:10 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:17 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:28 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:35 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:1 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:10 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:17 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:76:28 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:83 error MD
+036/no-emphasis-as-heading Emphasis used instea
+d of a heading [Context: "竊・縺ｩ繧後〒縺吶°・滂ｼ育分蜿ｷ or 
+邨ｵ譁・ｭ励〒・・]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:10 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:19 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:34 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:49 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:56 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:1 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:10 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:19 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:34 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:92:49 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:99 error MD
+036/no-emphasis-as-heading Emphasis used instea
+d of a heading [Context: "竊・縺ｩ繧後〒縺吶°・滂ｼ郁ｿｷ縺｣縺溘ｉ
+縲後♀縺ｾ縺九○縲阪ｂOK・・]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:5 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:16 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:23 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:36 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:5 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:16 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:108:23 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:116 error M
+D036/no-emphasis-as-heading Emphasis used inste
+ad of a heading [Context: "竊・縺ｩ繧後ｒ ON 縺ｫ縺励∪縺吶°・
+滂ｼ井ｾ具ｼ壹・,2,3,6縲阪悟・驛ｨ..."]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:131:81 erro
+r MD013/line-length Line length [Expected: 80; 
+Actual: 96]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:131:19 erro
+r MD060/table-column-style Table column style [
+Table pipe does not align with header for style
+ "aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:131:66 erro
+r MD060/table-column-style Table column style [
+Table pipe does not align with header for style
+ "aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:131:96 erro
+r MD060/table-column-style Table column style [
+Table pipe does not align with header for style
+ "aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:132:15 erro
+r MD060/table-column-style Table column style [
+Table pipe does not align with header for style
+ "aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:132:46 erro
+r MD060/table-column-style Table column style [
+Table pipe does not align with header for style
+ "aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:132:75 erro
+r MD060/table-column-style Table column style [
+Table pipe does not align with header for style
+ "aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:136 error M
+D036/no-emphasis-as-heading Emphasis used inste
+ad of a heading [Context: "竊・縺ｩ縺｡繧峨〒縺吶°・滂ｼ郁ｿｷ縺｣
+縺溘ｉ縲後ョ繝輔か繝ｫ繝医阪∪縺溘・縲梧署譯医≠繧翫・.."]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:10 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:28 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:35 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:46 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:57 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:10 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:28 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:35 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:145:46 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:146:81 erro
+r MD013/line-length Line length [Expected: 80; 
+Actual: 82]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:198:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:198:19 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:198:36 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:198:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:198:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:198:19 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:207 error M
+D036/no-emphasis-as-heading Emphasis used inste
+ad of a heading [Context: "窶ｻ繝・じ繧､繝ｳ謠先｡医≠繧翫・蝣ｴ蜷
+医・縺ｿ陦ｨ遉ｺ"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:210:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:210:19 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:210:26 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:210:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:210:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 1.md:210:19 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:15:8 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the left for style
+ "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:15:20 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:15:1 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:15:8 error 
+MD060/table-column-style Table column style [Ta
+ble pipe is missing space to the right for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:97:33 error
+ MD060/table-column-style Table column style [T
+able pipe does not align with header for style 
+"aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:98:34 error
+ MD060/table-column-style Table column style [T
+able pipe does not align with header for style 
+"aligned"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:14 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:36 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:59 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:81 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:103 err
+or MD060/table-column-style Table column style 
+[Table pipe is missing space to the left for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:14 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:36 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:59 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:104:81 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:5 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:12 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:23 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:30 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:5 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:12 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:133:23 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:172:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:172:15 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:172:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:172:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:185:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:185:15 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:185:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:185:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:196:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:196:15 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:196:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:196:8 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:427:5 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the left for styl
+e "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:427:20 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:427:27 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the left for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:427:1 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:427:5 error
+ MD060/table-column-style Table column style [T
+able pipe is missing space to the right for sty
+le "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/繧ｹ繝ｩ繧､繝峨ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ/
+繧ｹ繝ｩ繧､繝蛾ｪｨ蟄舌ず繧ｧ繝阪Ξ繝ｼ繧ｿ繝ｼ Phase 2.md:427:20 erro
+r MD060/table-column-style Table column style [
+Table pipe is missing space to the right for st
+yle "compact"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/00_C
+ORE_OS.md:3 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "## ﾂｧ 
+0. 縺ゅ↑縺溘・繧｢繧､繝・Φ繝・ぅ繝・ぅ"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/00_C
+ORE_OS.md:7 error MD022/blanks-around-headings 
+Headings should be surrounded by blank lines [E
+xpected: 1; Actual: 0; Below] [Context: "## ﾂｧ 
+1. 諤晁・・邨ｶ蟇ｾ蜴溷援・・he Golden Rules・・]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/00_C
+ORE_OS.md:8 error MD032/blanks-around-lists Lis
+ts should be surrounded by blank lines [Context
+: "1. **莠域ｸｬ蜿ｯ閭ｽ縺ｪ豁｣隲悶・豁ｻ・・eath to the Ob..."]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/00_C
+ORE_OS.md:15 error MD022/blanks-around-headings
+ Headings should be surrounded by blank lines [
+Expected: 1; Actual: 0; Below] [Context: "## ﾂｧ
+ 2. 襍ｷ蜍輔す繝ｼ繧ｯ繧ｨ繝ｳ繧ｹ"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/00_C
+ORE_OS.md:17 error MD032/blanks-around-lists Li
+sts should be surrounded by blank lines [Contex
+t: "1. `01_CHAOS_GENERATOR.md` 繧定ｵｷ蜍・.."]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/00_C
+ORE_OS.md:18:80 error MD047/single-trailing-new
+line Files should end with a single newline cha
+racter
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:10 error MD040/fenced-code
+-language Fenced code blocks should have a lang
+uage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:30 error MD040/fenced-code
+-language Fenced code blocks should have a lang
+uage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:66 error MD040/fenced-code
+-language Fenced code blocks should have a lang
+uage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:73 error MD040/fenced-code
+-language Fenced code blocks should have a lang
+uage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:80 error MD031/blanks-arou
+nd-fences Fenced code blocks should be surround
+ed by blank lines [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:80 error MD040/fenced-code
+-language Fenced code blocks should have a lang
+uage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:95 error MD040/fenced-code
+-language Fenced code blocks should have a lang
+uage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:113 error MD040/fenced-cod
+e-language Fenced code blocks should have a lan
+guage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:136 error MD040/fenced-cod
+e-language Fenced code blocks should have a lan
+guage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:148 error MD040/fenced-cod
+e-language Fenced code blocks should have a lan
+guage specified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:160:3 error MD027/no-multi
+ple-space-blockquote Multiple spaces after bloc
+kquote symbol [Context: ">  縺縺九ｉ險育判譖ｸ繧医ｊ縲∵怙蛻昴・
+荳謇九・譁ｹ縺御ｾ｡蛟､縺碁ｫ倥＞縲ゅ・]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/FRAM
+EWORK_螳溯｡後お繝ｳ繧ｸ繝ｳ.md:169:35 error MD047/single-
+trailing-newline Files should end with a single
+ newline character
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:11:3 error MD027/no-multiple-space
+-blockquote Multiple spaces after blockquote sy
+mbol [Context: ">  螳御ｺ・擅莉ｶ繧貞ｮ夂ｾｩ縺ｧ縺阪↑縺・・・縲∽ｻｻ蜍
+吶ｒ邨ゅｏ繧峨○繧峨ｌ縺ｪ縺・ゅ・.."]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:15 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:31 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:58 error MD031/blanks-around-fence
+s Fenced code blocks should be surrounded by bl
+ank lines [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:58 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:73 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:91 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:102 error MD040/fenced-code-langua
+ge Fenced code blocks should have a language sp
+ecified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:127 error MD040/fenced-code-langua
+ge Fenced code blocks should have a language sp
+ecified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:140:3 error MD027/no-multiple-spac
+e-blockquote Multiple spaces after blockquote s
+ymbol [Context: ">  螳御ｺ・擅莉ｶ縺ｨ縺ｯ縲∽ｽ輔ｒ隲ｦ繧√ｋ縺九・螳｣險
+縺縲ゅ・]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_Snake.md:144:28 error MD047/single-trailing
+-newline Files should end with a single newline
+ character
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:14 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:31 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:65 error MD031/blanks-around-fence
+s Fenced code blocks should be surrounded by bl
+ank lines [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:65 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:83 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:101 error MD040/fenced-code-langua
+ge Fenced code blocks should have a language sp
+ecified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:113 error MD040/fenced-code-langua
+ge Fenced code blocks should have a language sp
+ecified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:134 error MD040/fenced-code-langua
+ge Fenced code blocks should have a language sp
+ecified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:147:3 error MD027/no-multiple-spac
+e-blockquote Multiple spaces after blockquote s
+ymbol [Context: ">  螢翫○縺ｪ縺・ｻｺ迚ｩ縺ｯ縲∝ｮ溘・隱ｰ繧よｧ矩繧
+堤炊隗｣縺励※縺・↑縺九▲縺溷ｻｺ迚ｩ縺..."]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_隗｣菴灘ｱ・md:156:22 error MD047/single-trailing
+-newline Files should end with a single newline
+ character
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:11:3 error MD027/no-multiple-space-
+blockquote Multiple spaces after blockquote sym
+bol [Context: ">  譛ｬ蠖薙↓蝠上≧縺ｹ縺阪％縺ｨ繧貞撫縺・燕縺ｫ遲斐∴縺ｦ縺
+ｯ縺ｪ繧峨↑縺・√→縺・≧蛟ｫ..."]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:15 error MD040/fenced-code-language
+ Fenced code blocks should have a language spec
+ified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:32 error MD040/fenced-code-language
+ Fenced code blocks should have a language spec
+ified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:66 error MD031/blanks-around-fences
+ Fenced code blocks should be surrounded by bla
+nk lines [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:66 error MD040/fenced-code-language
+ Fenced code blocks should have a language spec
+ified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:85 error MD040/fenced-code-language
+ Fenced code blocks should have a language spec
+ified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:104 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:116 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:142 error MD040/fenced-code-languag
+e Fenced code blocks should have a language spe
+cified [Context: "```"]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:155:3 error MD027/no-multiple-space
+-blockquote Multiple spaces after blockquote sy
+mbol [Context: ">  髟ｷ縺・岼縺ｧ隕九※縲√ｈ繧雁､壹￥縺ｮ遲斐∴繧堤函繧
+縲ゅ・]
+DCR_obsidian/辟｡鬘後・繝輔か繝ｫ繝/蟶ｸ隴伜ｴｩ螢翫ヱ繝ｼ繝医リ繝ｼ/PERS
+ONA_螟ｧ閾｣.md:162:29 error MD047/single-trailing-
+newline Files should end with a single newline 
+character
