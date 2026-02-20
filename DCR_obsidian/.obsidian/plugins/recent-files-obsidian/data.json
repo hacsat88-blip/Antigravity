@@ -5,20 +5,48 @@
       "path": "02_notebookLM/【Prompt Forge】スライド依頼.md"
     },
     {
-      "basename": "【常識崩壊ブレスト】スライド依頼",
-      "path": "02_notebookLM/【常識崩壊ブレスト】スライド依頼.md"
+      "basename": "🔵NEXUS⊿F for Claude",
+      "path": "01_AI_Prompt/🔵NEXUS⊿F for Claude.md"
     },
     {
-      "basename": "【Prompt Forge】スライド構成",
-      "path": "02_notebookLM/【Prompt Forge】スライド構成.md"
+      "basename": "🔵NEXUS Omni-Kernel (Gemini 3.1 Pro Optimized)",
+      "path": "01_AI_Prompt/🔵NEXUS Omni-Kernel (Gemini 3.1 Pro Optimized).md"
+    },
+    {
+      "basename": "🟡常識崩壊ブレストパートナー for claude",
+      "path": "01_AI_Prompt/🟡常識崩壊ブレストパートナー for claude.md"
     },
     {
       "basename": "🟢Prompt Forge - 設計&改善 -",
       "path": "01_AI_Prompt/🟢Prompt Forge - 設計&改善 -.md"
     },
     {
+      "basename": "🟢Forge - 改善 -",
+      "path": "01_AI_Prompt/🟢Forge - 改善 -.md"
+    },
+    {
       "basename": "00_System_ChaosOS",
       "path": "01_AI_Prompt/🟡意味論的ビッグバン・エンジン/00_System_ChaosOS.md"
+    },
+    {
+      "basename": "🟣Claude Skill Creator",
+      "path": "01_AI_Prompt/🟣Claude Skill Creator.md"
+    },
+    {
+      "basename": "🟢スライドジェネレーター",
+      "path": "01_AI_Prompt/🟢スライドジェネレーター.md"
+    },
+    {
+      "basename": "🟢DeepResearch 指示書ジェネレーター",
+      "path": "01_AI_Prompt/🟢DeepResearch 指示書ジェネレーター.md"
+    },
+    {
+      "basename": "【常識崩壊ブレスト】スライド依頼",
+      "path": "02_notebookLM/【常識崩壊ブレスト】スライド依頼.md"
+    },
+    {
+      "basename": "【Prompt Forge】スライド構成",
+      "path": "02_notebookLM/【Prompt Forge】スライド構成.md"
     },
     {
       "basename": "02_REALITY_ANCHOR",
@@ -49,44 +77,16 @@
       "path": "無題のフォルダ/常識崩壊パートナー/FRAMEWORK_実行エンジン.md"
     },
     {
-      "basename": "🔵NEXUS Omni-Kernel (Gemini 3.1 Pro Optimized)",
-      "path": "01_AI_Prompt/🔵NEXUS Omni-Kernel (Gemini 3.1 Pro Optimized).md"
-    },
-    {
-      "basename": "🔵NEXUS⊿F for Claude",
-      "path": "01_AI_Prompt/🔵NEXUS⊿F for Claude.md"
-    },
-    {
       "basename": "NEXUS v10 Ignition Prompt",
       "path": "無題のフォルダ/🔵NEXUS_v10/NEXUS v10 Ignition Prompt.md"
-    },
-    {
-      "basename": "🟡常識崩壊ブレストパートナー for claude",
-      "path": "01_AI_Prompt/🟡常識崩壊ブレストパートナー for claude.md"
-    },
-    {
-      "basename": "🟢DeepResearch 指示書ジェネレーター",
-      "path": "01_AI_Prompt/🟢DeepResearch 指示書ジェネレーター.md"
-    },
-    {
-      "basename": "🟢スライドジェネレーター",
-      "path": "01_AI_Prompt/🟢スライドジェネレーター.md"
     },
     {
       "basename": "改善依頼分",
       "path": "改善依頼分.md"
     },
     {
-      "basename": "🟢Forge - 改善 -",
-      "path": "01_AI_Prompt/🟢Forge - 改善 -.md"
-    },
-    {
       "basename": "🔴DCR実務モード シグナル付き",
       "path": "01_AI_Prompt/🔴DCR実務モード シグナル付き.md"
-    },
-    {
-      "basename": "🟣Claude Skill Creator",
-      "path": "01_AI_Prompt/🟣Claude Skill Creator.md"
     },
     {
       "basename": "McKinsey風",
