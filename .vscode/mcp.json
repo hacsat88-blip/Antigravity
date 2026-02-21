@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    {
+      "id": "google-oauth-client-id",
+      "type": "promptString",
+      "description": "Google OAuth Client ID",
+      "password": false
+    },
+    {
+      "id": "google-oauth-client-secret",
+      "type": "promptString",
+      "description": "Google OAuth Client Secret",
+      "password": true
+    }
+  ],
+  "servers": {
+    "google_workspace": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["workspace-mcp", "--tool-tier", "core"],
+      "env": {
+        "GOOGLE_OAUTH_CLIENT_ID": "${input:google-oauth-client-id}",
+        "GOOGLE_OAUTH_CLIENT_SECRET": "${input:google-oauth-client-secret}",
+        "OAUTHLIB_INSECURE_TRANSPORT": "1"
+      }
+    }
+  }
+}
